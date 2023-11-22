@@ -18,2542 +18,7615 @@ import "utils.dart" show sanitizeKey;
 /// ```
 
 class RemixIcon {
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData i_24_hours_fill = RemixIconData(0xEA01);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData i_24_hours_line = RemixIconData(0xEA02);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData i_4k_fill = RemixIconData(0xEA03);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData i_4k_line = RemixIconData(0xEA04);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData a_b = RemixIconData(0xEA05);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData account_box_fill = RemixIconData(0xEA06);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData account_box_line = RemixIconData(0xEA07);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData account_circle_fill = RemixIconData(0xEA08);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData account_circle_line = RemixIconData(0xEA09);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData account_pin_box_fill = RemixIconData(0xEA0A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData account_pin_box_line = RemixIconData(0xEA0B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData account_pin_circle_fill = RemixIconData(0xEA0C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData account_pin_circle_line = RemixIconData(0xEA0D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData add_box_fill = RemixIconData(0xEA0E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData add_box_line = RemixIconData(0xEA0F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData add_circle_fill = RemixIconData(0xEA10);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData add_circle_line = RemixIconData(0xEA11);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData add_fill = RemixIconData(0xEA12);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData add_line = RemixIconData(0xEA13);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData admin_fill = RemixIconData(0xEA14);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData admin_line = RemixIconData(0xEA15);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData advertisement_fill = RemixIconData(0xEA16);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData advertisement_line = RemixIconData(0xEA17);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData airplay_fill = RemixIconData(0xEA18);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData airplay_line = RemixIconData(0xEA19);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData alarm_fill = RemixIconData(0xEA1A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData alarm_line = RemixIconData(0xEA1B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData alarm_warning_fill = RemixIconData(0xEA1C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData alarm_warning_line = RemixIconData(0xEA1D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData album_fill = RemixIconData(0xEA1E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData album_line = RemixIconData(0xEA1F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData alert_fill = RemixIconData(0xEA20);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData alert_line = RemixIconData(0xEA21);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData aliens_fill = RemixIconData(0xEA22);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData aliens_line = RemixIconData(0xEA23);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData align_bottom = RemixIconData(0xEA24);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData align_center = RemixIconData(0xEA25);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData align_justify = RemixIconData(0xEA26);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData align_left = RemixIconData(0xEA27);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData align_right = RemixIconData(0xEA28);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData align_top = RemixIconData(0xEA29);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData align_vertically = RemixIconData(0xEA2A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData alipay_fill = RemixIconData(0xEA2B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData alipay_line = RemixIconData(0xEA2C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData amazon_fill = RemixIconData(0xEA2D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData amazon_line = RemixIconData(0xEA2E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData anchor_fill = RemixIconData(0xEA2F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData anchor_line = RemixIconData(0xEA30);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ancient_gate_fill = RemixIconData(0xEA31);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ancient_gate_line = RemixIconData(0xEA32);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ancient_pavilion_fill = RemixIconData(0xEA33);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ancient_pavilion_line = RemixIconData(0xEA34);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData android_fill = RemixIconData(0xEA35);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData android_line = RemixIconData(0xEA36);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData angularjs_fill = RemixIconData(0xEA37);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData angularjs_line = RemixIconData(0xEA38);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData anticlockwise_2_fill = RemixIconData(0xEA39);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData anticlockwise_2_line = RemixIconData(0xEA3A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData anticlockwise_fill = RemixIconData(0xEA3B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData anticlockwise_line = RemixIconData(0xEA3C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData app_store_fill = RemixIconData(0xEA3D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData app_store_line = RemixIconData(0xEA3E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData apple_fill = RemixIconData(0xEA3F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData apple_line = RemixIconData(0xEA40);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData apps_2_fill = RemixIconData(0xEA41);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData apps_2_line = RemixIconData(0xEA42);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData apps_fill = RemixIconData(0xEA43);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData apps_line = RemixIconData(0xEA44);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData archive_drawer_fill = RemixIconData(0xEA45);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData archive_drawer_line = RemixIconData(0xEA46);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData archive_fill = RemixIconData(0xEA47);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData archive_line = RemixIconData(0xEA48);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_down_circle_fill = RemixIconData(0xEA49);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_down_circle_line = RemixIconData(0xEA4A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_down_fill = RemixIconData(0xEA4B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_down_line = RemixIconData(0xEA4C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_down_s_fill = RemixIconData(0xEA4D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_down_s_line = RemixIconData(0xEA4E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_drop_down_fill = RemixIconData(0xEA4F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_drop_down_line = RemixIconData(0xEA50);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_drop_left_fill = RemixIconData(0xEA51);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_drop_left_line = RemixIconData(0xEA52);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_drop_right_fill = RemixIconData(0xEA53);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_drop_right_line = RemixIconData(0xEA54);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_drop_up_fill = RemixIconData(0xEA55);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_drop_up_line = RemixIconData(0xEA56);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_go_back_fill = RemixIconData(0xEA57);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_go_back_line = RemixIconData(0xEA58);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_go_forward_fill = RemixIconData(0xEA59);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_go_forward_line = RemixIconData(0xEA5A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_circle_fill = RemixIconData(0xEA5B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_circle_line = RemixIconData(0xEA5C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_down_fill = RemixIconData(0xEA5D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_down_line = RemixIconData(0xEA5E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_fill = RemixIconData(0xEA5F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_line = RemixIconData(0xEA60);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_right_fill = RemixIconData(0xEA61);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_right_line = RemixIconData(0xEA62);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_s_fill = RemixIconData(0xEA63);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_s_line = RemixIconData(0xEA64);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_up_fill = RemixIconData(0xEA65);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_up_line = RemixIconData(0xEA66);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_circle_fill = RemixIconData(0xEA67);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_circle_line = RemixIconData(0xEA68);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_down_fill = RemixIconData(0xEA69);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_down_line = RemixIconData(0xEA6A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_fill = RemixIconData(0xEA6B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_line = RemixIconData(0xEA6C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_s_fill = RemixIconData(0xEA6D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_s_line = RemixIconData(0xEA6E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_up_fill = RemixIconData(0xEA6F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_up_line = RemixIconData(0xEA70);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_up_circle_fill = RemixIconData(0xEA71);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_up_circle_line = RemixIconData(0xEA72);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_up_down_fill = RemixIconData(0xEA73);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_up_down_line = RemixIconData(0xEA74);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_up_fill = RemixIconData(0xEA75);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_up_line = RemixIconData(0xEA76);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_up_s_fill = RemixIconData(0xEA77);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_up_s_line = RemixIconData(0xEA78);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData artboard_2_fill = RemixIconData(0xEA79);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData artboard_2_line = RemixIconData(0xEA7A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData artboard_fill = RemixIconData(0xEA7B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData artboard_line = RemixIconData(0xEA7C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData article_fill = RemixIconData(0xEA7D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData article_line = RemixIconData(0xEA7E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData aspect_ratio_fill = RemixIconData(0xEA7F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData aspect_ratio_line = RemixIconData(0xEA80);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData asterisk = RemixIconData(0xEA81);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData at_fill = RemixIconData(0xEA82);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData at_line = RemixIconData(0xEA83);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData attachment_2 = RemixIconData(0xEA84);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData attachment_fill = RemixIconData(0xEA85);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData attachment_line = RemixIconData(0xEA86);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData auction_fill = RemixIconData(0xEA87);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData auction_line = RemixIconData(0xEA88);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData award_fill = RemixIconData(0xEA89);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData award_line = RemixIconData(0xEA8A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData baidu_fill = RemixIconData(0xEA8B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData baidu_line = RemixIconData(0xEA8C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ball_pen_fill = RemixIconData(0xEA8D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ball_pen_line = RemixIconData(0xEA8E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bank_card_2_fill = RemixIconData(0xEA8F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bank_card_2_line = RemixIconData(0xEA90);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bank_card_fill = RemixIconData(0xEA91);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bank_card_line = RemixIconData(0xEA92);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bank_fill = RemixIconData(0xEA93);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bank_line = RemixIconData(0xEA94);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bar_chart_2_fill = RemixIconData(0xEA95);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bar_chart_2_line = RemixIconData(0xEA96);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bar_chart_box_fill = RemixIconData(0xEA97);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bar_chart_box_line = RemixIconData(0xEA98);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bar_chart_fill = RemixIconData(0xEA99);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bar_chart_grouped_fill = RemixIconData(0xEA9A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bar_chart_grouped_line = RemixIconData(0xEA9B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bar_chart_horizontal_fill = RemixIconData(0xEA9C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bar_chart_horizontal_line = RemixIconData(0xEA9D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bar_chart_line = RemixIconData(0xEA9E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData barcode_box_fill = RemixIconData(0xEA9F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData barcode_box_line = RemixIconData(0xEAA0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData barcode_fill = RemixIconData(0xEAA1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData barcode_line = RemixIconData(0xEAA2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData barricade_fill = RemixIconData(0xEAA3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData barricade_line = RemixIconData(0xEAA4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData base_station_fill = RemixIconData(0xEAA5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData base_station_line = RemixIconData(0xEAA6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData basketball_fill = RemixIconData(0xEAA7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData basketball_line = RemixIconData(0xEAA8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_2_charge_fill = RemixIconData(0xEAA9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_2_charge_line = RemixIconData(0xEAAA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_2_fill = RemixIconData(0xEAAB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_2_line = RemixIconData(0xEAAC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_charge_fill = RemixIconData(0xEAAD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_charge_line = RemixIconData(0xEAAE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_fill = RemixIconData(0xEAAF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_line = RemixIconData(0xEAB0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_low_fill = RemixIconData(0xEAB1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_low_line = RemixIconData(0xEAB2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_saver_fill = RemixIconData(0xEAB3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_saver_line = RemixIconData(0xEAB4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_share_fill = RemixIconData(0xEAB5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData battery_share_line = RemixIconData(0xEAB6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bear_smile_fill = RemixIconData(0xEAB7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bear_smile_line = RemixIconData(0xEAB8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData behance_fill = RemixIconData(0xEAB9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData behance_line = RemixIconData(0xEABA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bell_fill = RemixIconData(0xEABB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bell_line = RemixIconData(0xEABC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bike_fill = RemixIconData(0xEABD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bike_line = RemixIconData(0xEABE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bilibili_fill = RemixIconData(0xEABF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bilibili_line = RemixIconData(0xEAC0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bill_fill = RemixIconData(0xEAC1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bill_line = RemixIconData(0xEAC2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData billiards_fill = RemixIconData(0xEAC3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData billiards_line = RemixIconData(0xEAC4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bit_coin_fill = RemixIconData(0xEAC5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bit_coin_line = RemixIconData(0xEAC6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData blaze_fill = RemixIconData(0xEAC7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData blaze_line = RemixIconData(0xEAC8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bluetooth_connect_fill = RemixIconData(0xEAC9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bluetooth_connect_line = RemixIconData(0xEACA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bluetooth_fill = RemixIconData(0xEACB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bluetooth_line = RemixIconData(0xEACC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData blur_off_fill = RemixIconData(0xEACD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData blur_off_line = RemixIconData(0xEACE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData body_scan_fill = RemixIconData(0xEACF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData body_scan_line = RemixIconData(0xEAD0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bold = RemixIconData(0xEAD1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_2_fill = RemixIconData(0xEAD2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_2_line = RemixIconData(0xEAD3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_3_fill = RemixIconData(0xEAD4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_3_line = RemixIconData(0xEAD5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_fill = RemixIconData(0xEAD6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_line = RemixIconData(0xEAD7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_mark_fill = RemixIconData(0xEAD8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_mark_line = RemixIconData(0xEAD9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_open_fill = RemixIconData(0xEADA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_open_line = RemixIconData(0xEADB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_read_fill = RemixIconData(0xEADC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_read_line = RemixIconData(0xEADD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData booklet_fill = RemixIconData(0xEADE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData booklet_line = RemixIconData(0xEADF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bookmark_2_fill = RemixIconData(0xEAE0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bookmark_2_line = RemixIconData(0xEAE1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bookmark_3_fill = RemixIconData(0xEAE2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bookmark_3_line = RemixIconData(0xEAE3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bookmark_fill = RemixIconData(0xEAE4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bookmark_line = RemixIconData(0xEAE5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData boxing_fill = RemixIconData(0xEAE6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData boxing_line = RemixIconData(0xEAE7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData braces_fill = RemixIconData(0xEAE8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData braces_line = RemixIconData(0xEAE9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brackets_fill = RemixIconData(0xEAEA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brackets_line = RemixIconData(0xEAEB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData briefcase_2_fill = RemixIconData(0xEAEC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData briefcase_2_line = RemixIconData(0xEAED);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData briefcase_3_fill = RemixIconData(0xEAEE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData briefcase_3_line = RemixIconData(0xEAEF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData briefcase_4_fill = RemixIconData(0xEAF0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData briefcase_4_line = RemixIconData(0xEAF1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData briefcase_5_fill = RemixIconData(0xEAF2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData briefcase_5_line = RemixIconData(0xEAF3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData briefcase_fill = RemixIconData(0xEAF4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData briefcase_line = RemixIconData(0xEAF5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bring_forward = RemixIconData(0xEAF6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bring_to_front = RemixIconData(0xEAF7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData broadcast_fill = RemixIconData(0xEAF8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData broadcast_line = RemixIconData(0xEAF9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brush_2_fill = RemixIconData(0xEAFA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brush_2_line = RemixIconData(0xEAFB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brush_3_fill = RemixIconData(0xEAFC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brush_3_line = RemixIconData(0xEAFD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brush_4_fill = RemixIconData(0xEAFE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brush_4_line = RemixIconData(0xEAFF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brush_fill = RemixIconData(0xEB00);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brush_line = RemixIconData(0xEB01);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bubble_chart_fill = RemixIconData(0xEB02);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bubble_chart_line = RemixIconData(0xEB03);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bug_2_fill = RemixIconData(0xEB04);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bug_2_line = RemixIconData(0xEB05);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bug_fill = RemixIconData(0xEB06);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bug_line = RemixIconData(0xEB07);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData building_2_fill = RemixIconData(0xEB08);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData building_2_line = RemixIconData(0xEB09);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData building_3_fill = RemixIconData(0xEB0A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData building_3_line = RemixIconData(0xEB0B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData building_4_fill = RemixIconData(0xEB0C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData building_4_line = RemixIconData(0xEB0D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData building_fill = RemixIconData(0xEB0E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData building_line = RemixIconData(0xEB0F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bus_2_fill = RemixIconData(0xEB10);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bus_2_line = RemixIconData(0xEB11);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bus_fill = RemixIconData(0xEB12);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bus_line = RemixIconData(0xEB13);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bus_wifi_fill = RemixIconData(0xEB14);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bus_wifi_line = RemixIconData(0xEB15);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cactus_fill = RemixIconData(0xEB16);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cactus_line = RemixIconData(0xEB17);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cake_2_fill = RemixIconData(0xEB18);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cake_2_line = RemixIconData(0xEB19);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cake_3_fill = RemixIconData(0xEB1A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cake_3_line = RemixIconData(0xEB1B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cake_fill = RemixIconData(0xEB1C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cake_line = RemixIconData(0xEB1D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calculator_fill = RemixIconData(0xEB1E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calculator_line = RemixIconData(0xEB1F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_2_fill = RemixIconData(0xEB20);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_2_line = RemixIconData(0xEB21);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_check_fill = RemixIconData(0xEB22);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_check_line = RemixIconData(0xEB23);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_event_fill = RemixIconData(0xEB24);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_event_line = RemixIconData(0xEB25);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_fill = RemixIconData(0xEB26);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_line = RemixIconData(0xEB27);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_todo_fill = RemixIconData(0xEB28);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_todo_line = RemixIconData(0xEB29);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_2_fill = RemixIconData(0xEB2A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_2_line = RemixIconData(0xEB2B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_3_fill = RemixIconData(0xEB2C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_3_line = RemixIconData(0xEB2D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_fill = RemixIconData(0xEB2E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_lens_fill = RemixIconData(0xEB2F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_lens_line = RemixIconData(0xEB30);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_line = RemixIconData(0xEB31);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_off_fill = RemixIconData(0xEB32);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_off_line = RemixIconData(0xEB33);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_switch_fill = RemixIconData(0xEB34);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData camera_switch_line = RemixIconData(0xEB35);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData capsule_fill = RemixIconData(0xEB36);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData capsule_line = RemixIconData(0xEB37);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData car_fill = RemixIconData(0xEB38);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData car_line = RemixIconData(0xEB39);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData car_washing_fill = RemixIconData(0xEB3A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData car_washing_line = RemixIconData(0xEB3B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData caravan_fill = RemixIconData(0xEB3C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData caravan_line = RemixIconData(0xEB3D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cast_fill = RemixIconData(0xEB3E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cast_line = RemixIconData(0xEB3F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cellphone_fill = RemixIconData(0xEB40);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cellphone_line = RemixIconData(0xEB41);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData celsius_fill = RemixIconData(0xEB42);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData celsius_line = RemixIconData(0xEB43);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData centos_fill = RemixIconData(0xEB44);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData centos_line = RemixIconData(0xEB45);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData character_recognition_fill = RemixIconData(0xEB46);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData character_recognition_line = RemixIconData(0xEB47);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData charging_pile_2_fill = RemixIconData(0xEB48);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData charging_pile_2_line = RemixIconData(0xEB49);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData charging_pile_fill = RemixIconData(0xEB4A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData charging_pile_line = RemixIconData(0xEB4B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_1_fill = RemixIconData(0xEB4C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_1_line = RemixIconData(0xEB4D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_2_fill = RemixIconData(0xEB4E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_2_line = RemixIconData(0xEB4F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_3_fill = RemixIconData(0xEB50);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_3_line = RemixIconData(0xEB51);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_4_fill = RemixIconData(0xEB52);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_4_line = RemixIconData(0xEB53);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_check_fill = RemixIconData(0xEB54);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_check_line = RemixIconData(0xEB55);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_delete_fill = RemixIconData(0xEB56);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_delete_line = RemixIconData(0xEB57);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_download_fill = RemixIconData(0xEB58);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_download_line = RemixIconData(0xEB59);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_follow_up_fill = RemixIconData(0xEB5A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_follow_up_line = RemixIconData(0xEB5B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_forward_fill = RemixIconData(0xEB5C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_forward_line = RemixIconData(0xEB5D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_heart_fill = RemixIconData(0xEB5E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_heart_line = RemixIconData(0xEB5F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_history_fill = RemixIconData(0xEB60);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_history_line = RemixIconData(0xEB61);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_new_fill = RemixIconData(0xEB62);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_new_line = RemixIconData(0xEB63);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_off_fill = RemixIconData(0xEB64);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_off_line = RemixIconData(0xEB65);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_poll_fill = RemixIconData(0xEB66);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_poll_line = RemixIconData(0xEB67);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_private_fill = RemixIconData(0xEB68);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_private_line = RemixIconData(0xEB69);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_quote_fill = RemixIconData(0xEB6A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_quote_line = RemixIconData(0xEB6B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_settings_fill = RemixIconData(0xEB6C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_settings_line = RemixIconData(0xEB6D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_smile_2_fill = RemixIconData(0xEB6E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_smile_2_line = RemixIconData(0xEB6F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_smile_3_fill = RemixIconData(0xEB70);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_smile_3_line = RemixIconData(0xEB71);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_smile_fill = RemixIconData(0xEB72);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_smile_line = RemixIconData(0xEB73);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_upload_fill = RemixIconData(0xEB74);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_upload_line = RemixIconData(0xEB75);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_voice_fill = RemixIconData(0xEB76);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chat_voice_line = RemixIconData(0xEB77);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData check_double_fill = RemixIconData(0xEB78);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData check_double_line = RemixIconData(0xEB79);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData check_fill = RemixIconData(0xEB7A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData check_line = RemixIconData(0xEB7B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_blank_circle_fill = RemixIconData(0xEB7C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_blank_circle_line = RemixIconData(0xEB7D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_blank_fill = RemixIconData(0xEB7E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_blank_line = RemixIconData(0xEB7F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_circle_fill = RemixIconData(0xEB80);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_circle_line = RemixIconData(0xEB81);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_fill = RemixIconData(0xEB82);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_indeterminate_fill = RemixIconData(0xEB83);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_indeterminate_line = RemixIconData(0xEB84);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_line = RemixIconData(0xEB85);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_multiple_blank_fill = RemixIconData(0xEB86);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_multiple_blank_line = RemixIconData(0xEB87);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_multiple_fill = RemixIconData(0xEB88);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData checkbox_multiple_line = RemixIconData(0xEB89);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData china_railway_fill = RemixIconData(0xEB8A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData china_railway_line = RemixIconData(0xEB8B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chrome_fill = RemixIconData(0xEB8C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData chrome_line = RemixIconData(0xEB8D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData clapperboard_fill = RemixIconData(0xEB8E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData clapperboard_line = RemixIconData(0xEB8F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData clipboard_fill = RemixIconData(0xEB90);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData clipboard_line = RemixIconData(0xEB91);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData clockwise_2_fill = RemixIconData(0xEB92);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData clockwise_2_line = RemixIconData(0xEB93);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData clockwise_fill = RemixIconData(0xEB94);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData clockwise_line = RemixIconData(0xEB95);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData close_circle_fill = RemixIconData(0xEB96);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData close_circle_line = RemixIconData(0xEB97);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData close_fill = RemixIconData(0xEB98);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData close_line = RemixIconData(0xEB99);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData closed_captioning_fill = RemixIconData(0xEB9A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData closed_captioning_line = RemixIconData(0xEB9B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cloud_fill = RemixIconData(0xEB9C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cloud_line = RemixIconData(0xEB9D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cloud_off_fill = RemixIconData(0xEB9E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cloud_off_line = RemixIconData(0xEB9F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cloud_windy_fill = RemixIconData(0xEBA0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cloud_windy_line = RemixIconData(0xEBA1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cloudy_2_fill = RemixIconData(0xEBA2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cloudy_2_line = RemixIconData(0xEBA3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cloudy_fill = RemixIconData(0xEBA4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cloudy_line = RemixIconData(0xEBA5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData code_box_fill = RemixIconData(0xEBA6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData code_box_line = RemixIconData(0xEBA7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData code_fill = RemixIconData(0xEBA8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData code_line = RemixIconData(0xEBA9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData code_s_fill = RemixIconData(0xEBAA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData code_s_line = RemixIconData(0xEBAB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData code_s_slash_fill = RemixIconData(0xEBAC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData code_s_slash_line = RemixIconData(0xEBAD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData code_view = RemixIconData(0xEBAE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData codepen_fill = RemixIconData(0xEBAF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData codepen_line = RemixIconData(0xEBB0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coin_fill = RemixIconData(0xEBB1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coin_line = RemixIconData(0xEBB2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coins_fill = RemixIconData(0xEBB3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coins_line = RemixIconData(0xEBB4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData collage_fill = RemixIconData(0xEBB5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData collage_line = RemixIconData(0xEBB6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData command_fill = RemixIconData(0xEBB7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData command_line = RemixIconData(0xEBB8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData community_fill = RemixIconData(0xEBB9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData community_line = RemixIconData(0xEBBA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compass_2_fill = RemixIconData(0xEBBB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compass_2_line = RemixIconData(0xEBBC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compass_3_fill = RemixIconData(0xEBBD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compass_3_line = RemixIconData(0xEBBE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compass_4_fill = RemixIconData(0xEBBF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compass_4_line = RemixIconData(0xEBC0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compass_discover_fill = RemixIconData(0xEBC1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compass_discover_line = RemixIconData(0xEBC2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compass_fill = RemixIconData(0xEBC3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compass_line = RemixIconData(0xEBC4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compasses_2_fill = RemixIconData(0xEBC5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compasses_2_line = RemixIconData(0xEBC6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compasses_fill = RemixIconData(0xEBC7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData compasses_line = RemixIconData(0xEBC8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData computer_fill = RemixIconData(0xEBC9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData computer_line = RemixIconData(0xEBCA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contacts_book_2_fill = RemixIconData(0xEBCB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contacts_book_2_line = RemixIconData(0xEBCC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contacts_book_fill = RemixIconData(0xEBCD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contacts_book_line = RemixIconData(0xEBCE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contacts_book_upload_fill = RemixIconData(0xEBCF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contacts_book_upload_line = RemixIconData(0xEBD0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contacts_fill = RemixIconData(0xEBD1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contacts_line = RemixIconData(0xEBD2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contrast_2_fill = RemixIconData(0xEBD3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contrast_2_line = RemixIconData(0xEBD4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contrast_drop_2_fill = RemixIconData(0xEBD5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contrast_drop_2_line = RemixIconData(0xEBD6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contrast_drop_fill = RemixIconData(0xEBD7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contrast_drop_line = RemixIconData(0xEBD8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contrast_fill = RemixIconData(0xEBD9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contrast_line = RemixIconData(0xEBDA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData copper_coin_fill = RemixIconData(0xEBDB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData copper_coin_line = RemixIconData(0xEBDC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData copper_diamond_fill = RemixIconData(0xEBDD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData copper_diamond_line = RemixIconData(0xEBDE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData copyleft_fill = RemixIconData(0xEBDF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData copyleft_line = RemixIconData(0xEBE0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData copyright_fill = RemixIconData(0xEBE1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData copyright_line = RemixIconData(0xEBE2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coreos_fill = RemixIconData(0xEBE3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coreos_line = RemixIconData(0xEBE4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coupon_2_fill = RemixIconData(0xEBE5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coupon_2_line = RemixIconData(0xEBE6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coupon_3_fill = RemixIconData(0xEBE7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coupon_3_line = RemixIconData(0xEBE8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coupon_4_fill = RemixIconData(0xEBE9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coupon_4_line = RemixIconData(0xEBEA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coupon_5_fill = RemixIconData(0xEBEB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coupon_5_line = RemixIconData(0xEBEC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coupon_fill = RemixIconData(0xEBED);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData coupon_line = RemixIconData(0xEBEE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cpu_fill = RemixIconData(0xEBEF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cpu_line = RemixIconData(0xEBF0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_by_fill = RemixIconData(0xEBF1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_by_line = RemixIconData(0xEBF2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_fill = RemixIconData(0xEBF3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_line = RemixIconData(0xEBF4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_nc_fill = RemixIconData(0xEBF5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_nc_line = RemixIconData(0xEBF6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_nd_fill = RemixIconData(0xEBF7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_nd_line = RemixIconData(0xEBF8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_sa_fill = RemixIconData(0xEBF9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_sa_line = RemixIconData(0xEBFA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_zero_fill = RemixIconData(0xEBFB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData creative_commons_zero_line = RemixIconData(0xEBFC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData criminal_fill = RemixIconData(0xEBFD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData criminal_line = RemixIconData(0xEBFE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData crop_2_fill = RemixIconData(0xEBFF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData crop_2_line = RemixIconData(0xEC00);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData crop_fill = RemixIconData(0xEC01);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData crop_line = RemixIconData(0xEC02);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData css3_fill = RemixIconData(0xEC03);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData css3_line = RemixIconData(0xEC04);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cup_fill = RemixIconData(0xEC05);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cup_line = RemixIconData(0xEC06);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData currency_fill = RemixIconData(0xEC07);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData currency_line = RemixIconData(0xEC08);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cursor_fill = RemixIconData(0xEC09);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cursor_line = RemixIconData(0xEC0A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData customer_service_2_fill = RemixIconData(0xEC0B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData customer_service_2_line = RemixIconData(0xEC0C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData customer_service_fill = RemixIconData(0xEC0D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData customer_service_line = RemixIconData(0xEC0E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dashboard_2_fill = RemixIconData(0xEC0F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dashboard_2_line = RemixIconData(0xEC10);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dashboard_3_fill = RemixIconData(0xEC11);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dashboard_3_line = RemixIconData(0xEC12);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dashboard_fill = RemixIconData(0xEC13);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dashboard_line = RemixIconData(0xEC14);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData database_2_fill = RemixIconData(0xEC15);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData database_2_line = RemixIconData(0xEC16);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData database_fill = RemixIconData(0xEC17);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData database_line = RemixIconData(0xEC18);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_back_2_fill = RemixIconData(0xEC19);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_back_2_line = RemixIconData(0xEC1A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_back_fill = RemixIconData(0xEC1B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_back_line = RemixIconData(0xEC1C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_2_fill = RemixIconData(0xEC1D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_2_line = RemixIconData(0xEC1E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_3_fill = RemixIconData(0xEC1F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_3_line = RemixIconData(0xEC20);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_4_fill = RemixIconData(0xEC21);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_4_line = RemixIconData(0xEC22);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_5_fill = RemixIconData(0xEC23);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_5_line = RemixIconData(0xEC24);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_6_fill = RemixIconData(0xEC25);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_6_line = RemixIconData(0xEC26);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_7_fill = RemixIconData(0xEC27);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_7_line = RemixIconData(0xEC28);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_fill = RemixIconData(0xEC29);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_bin_line = RemixIconData(0xEC2A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_column = RemixIconData(0xEC2B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData delete_row = RemixIconData(0xEC2C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData device_fill = RemixIconData(0xEC2D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData device_line = RemixIconData(0xEC2E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData device_recover_fill = RemixIconData(0xEC2F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData device_recover_line = RemixIconData(0xEC30);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dingding_fill = RemixIconData(0xEC31);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dingding_line = RemixIconData(0xEC32);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData direction_fill = RemixIconData(0xEC33);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData direction_line = RemixIconData(0xEC34);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData disc_fill = RemixIconData(0xEC35);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData disc_line = RemixIconData(0xEC36);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData discord_fill = RemixIconData(0xEC37);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData discord_line = RemixIconData(0xEC38);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData discuss_fill = RemixIconData(0xEC39);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData discuss_line = RemixIconData(0xEC3A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dislike_fill = RemixIconData(0xEC3B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dislike_line = RemixIconData(0xEC3C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData disqus_fill = RemixIconData(0xEC3D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData disqus_line = RemixIconData(0xEC3E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData divide_fill = RemixIconData(0xEC3F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData divide_line = RemixIconData(0xEC40);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData donut_chart_fill = RemixIconData(0xEC41);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData donut_chart_line = RemixIconData(0xEC42);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData door_closed_fill = RemixIconData(0xEC43);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData door_closed_line = RemixIconData(0xEC44);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData door_fill = RemixIconData(0xEC45);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData door_line = RemixIconData(0xEC46);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData door_lock_box_fill = RemixIconData(0xEC47);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData door_lock_box_line = RemixIconData(0xEC48);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData door_lock_fill = RemixIconData(0xEC49);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData door_lock_line = RemixIconData(0xEC4A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData door_open_fill = RemixIconData(0xEC4B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData door_open_line = RemixIconData(0xEC4C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dossier_fill = RemixIconData(0xEC4D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dossier_line = RemixIconData(0xEC4E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData douban_fill = RemixIconData(0xEC4F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData douban_line = RemixIconData(0xEC50);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData double_quotes_l = RemixIconData(0xEC51);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData double_quotes_r = RemixIconData(0xEC52);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData download_2_fill = RemixIconData(0xEC53);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData download_2_line = RemixIconData(0xEC54);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData download_cloud_2_fill = RemixIconData(0xEC55);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData download_cloud_2_line = RemixIconData(0xEC56);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData download_cloud_fill = RemixIconData(0xEC57);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData download_cloud_line = RemixIconData(0xEC58);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData download_fill = RemixIconData(0xEC59);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData download_line = RemixIconData(0xEC5A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData draft_fill = RemixIconData(0xEC5B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData draft_line = RemixIconData(0xEC5C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drag_drop_fill = RemixIconData(0xEC5D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drag_drop_line = RemixIconData(0xEC5E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drag_move_2_fill = RemixIconData(0xEC5F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drag_move_2_line = RemixIconData(0xEC60);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drag_move_fill = RemixIconData(0xEC61);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drag_move_line = RemixIconData(0xEC62);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dribbble_fill = RemixIconData(0xEC63);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dribbble_line = RemixIconData(0xEC64);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drive_fill = RemixIconData(0xEC65);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drive_line = RemixIconData(0xEC66);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drizzle_fill = RemixIconData(0xEC67);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drizzle_line = RemixIconData(0xEC68);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drop_fill = RemixIconData(0xEC69);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData drop_line = RemixIconData(0xEC6A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dropbox_fill = RemixIconData(0xEC6B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dropbox_line = RemixIconData(0xEC6C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dual_sim_1_fill = RemixIconData(0xEC6D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dual_sim_1_line = RemixIconData(0xEC6E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dual_sim_2_fill = RemixIconData(0xEC6F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dual_sim_2_line = RemixIconData(0xEC70);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dv_fill = RemixIconData(0xEC71);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dv_line = RemixIconData(0xEC72);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dvd_fill = RemixIconData(0xEC73);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dvd_line = RemixIconData(0xEC74);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData e_bike_2_fill = RemixIconData(0xEC75);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData e_bike_2_line = RemixIconData(0xEC76);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData e_bike_fill = RemixIconData(0xEC77);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData e_bike_line = RemixIconData(0xEC78);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData earth_fill = RemixIconData(0xEC79);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData earth_line = RemixIconData(0xEC7A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData earthquake_fill = RemixIconData(0xEC7B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData earthquake_line = RemixIconData(0xEC7C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edge_fill = RemixIconData(0xEC7D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edge_line = RemixIconData(0xEC7E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edit_2_fill = RemixIconData(0xEC7F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edit_2_line = RemixIconData(0xEC80);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edit_box_fill = RemixIconData(0xEC81);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edit_box_line = RemixIconData(0xEC82);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edit_circle_fill = RemixIconData(0xEC83);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edit_circle_line = RemixIconData(0xEC84);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edit_fill = RemixIconData(0xEC85);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edit_line = RemixIconData(0xEC86);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eject_fill = RemixIconData(0xEC87);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eject_line = RemixIconData(0xEC88);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_2_fill = RemixIconData(0xEC89);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_2_line = RemixIconData(0xEC8A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_fill = RemixIconData(0xEC8B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_happy_fill = RemixIconData(0xEC8C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_happy_line = RemixIconData(0xEC8D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_laugh_fill = RemixIconData(0xEC8E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_laugh_line = RemixIconData(0xEC8F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_line = RemixIconData(0xEC90);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_normal_fill = RemixIconData(0xEC91);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_normal_line = RemixIconData(0xEC92);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_sad_fill = RemixIconData(0xEC93);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_sad_line = RemixIconData(0xEC94);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_unhappy_fill = RemixIconData(0xEC95);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emotion_unhappy_line = RemixIconData(0xEC96);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData empathize_fill = RemixIconData(0xEC97);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData empathize_line = RemixIconData(0xEC98);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emphasis_cn = RemixIconData(0xEC99);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emphasis = RemixIconData(0xEC9A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData english_input = RemixIconData(0xEC9B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData equalizer_fill = RemixIconData(0xEC9C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData equalizer_line = RemixIconData(0xEC9D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eraser_fill = RemixIconData(0xEC9E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eraser_line = RemixIconData(0xEC9F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData error_warning_fill = RemixIconData(0xECA0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData error_warning_line = RemixIconData(0xECA1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData evernote_fill = RemixIconData(0xECA2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData evernote_line = RemixIconData(0xECA3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData exchange_box_fill = RemixIconData(0xECA4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData exchange_box_line = RemixIconData(0xECA5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData exchange_cny_fill = RemixIconData(0xECA6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData exchange_cny_line = RemixIconData(0xECA7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData exchange_dollar_fill = RemixIconData(0xECA8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData exchange_dollar_line = RemixIconData(0xECA9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData exchange_fill = RemixIconData(0xECAA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData exchange_funds_fill = RemixIconData(0xECAB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData exchange_funds_line = RemixIconData(0xECAC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData exchange_line = RemixIconData(0xECAD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData external_link_fill = RemixIconData(0xECAE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData external_link_line = RemixIconData(0xECAF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eye_2_fill = RemixIconData(0xECB0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eye_2_line = RemixIconData(0xECB1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eye_close_fill = RemixIconData(0xECB2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eye_close_line = RemixIconData(0xECB3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eye_fill = RemixIconData(0xECB4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eye_line = RemixIconData(0xECB5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eye_off_fill = RemixIconData(0xECB6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData eye_off_line = RemixIconData(0xECB7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData facebook_box_fill = RemixIconData(0xECB8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData facebook_box_line = RemixIconData(0xECB9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData facebook_circle_fill = RemixIconData(0xECBA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData facebook_circle_line = RemixIconData(0xECBB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData facebook_fill = RemixIconData(0xECBC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData facebook_line = RemixIconData(0xECBD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fahrenheit_fill = RemixIconData(0xECBE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fahrenheit_line = RemixIconData(0xECBF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData feedback_fill = RemixIconData(0xECC0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData feedback_line = RemixIconData(0xECC1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_2_fill = RemixIconData(0xECC2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_2_line = RemixIconData(0xECC3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_3_fill = RemixIconData(0xECC4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_3_line = RemixIconData(0xECC5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_4_fill = RemixIconData(0xECC6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_4_line = RemixIconData(0xECC7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_add_fill = RemixIconData(0xECC8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_add_line = RemixIconData(0xECC9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_chart_2_fill = RemixIconData(0xECCA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_chart_2_line = RemixIconData(0xECCB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_chart_fill = RemixIconData(0xECCC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_chart_line = RemixIconData(0xECCD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_cloud_fill = RemixIconData(0xECCE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_cloud_line = RemixIconData(0xECCF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_code_fill = RemixIconData(0xECD0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_code_line = RemixIconData(0xECD1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_copy_2_fill = RemixIconData(0xECD2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_copy_2_line = RemixIconData(0xECD3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_copy_fill = RemixIconData(0xECD4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_copy_line = RemixIconData(0xECD5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_damage_fill = RemixIconData(0xECD6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_damage_line = RemixIconData(0xECD7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_download_fill = RemixIconData(0xECD8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_download_line = RemixIconData(0xECD9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_edit_fill = RemixIconData(0xECDA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_edit_line = RemixIconData(0xECDB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_excel_2_fill = RemixIconData(0xECDC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_excel_2_line = RemixIconData(0xECDD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_excel_fill = RemixIconData(0xECDE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_excel_line = RemixIconData(0xECDF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_fill = RemixIconData(0xECE0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_forbid_fill = RemixIconData(0xECE1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_forbid_line = RemixIconData(0xECE2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_gif_fill = RemixIconData(0xECE3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_gif_line = RemixIconData(0xECE4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_history_fill = RemixIconData(0xECE5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_history_line = RemixIconData(0xECE6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_hwp_fill = RemixIconData(0xECE7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_hwp_line = RemixIconData(0xECE8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_info_fill = RemixIconData(0xECE9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_info_line = RemixIconData(0xECEA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_line = RemixIconData(0xECEB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_list_2_fill = RemixIconData(0xECEC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_list_2_line = RemixIconData(0xECED);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_list_3_fill = RemixIconData(0xECEE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_list_3_line = RemixIconData(0xECEF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_list_fill = RemixIconData(0xECF0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_list_line = RemixIconData(0xECF1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_lock_fill = RemixIconData(0xECF2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_lock_line = RemixIconData(0xECF3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_mark_fill = RemixIconData(0xECF4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_mark_line = RemixIconData(0xECF5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_music_fill = RemixIconData(0xECF6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_music_line = RemixIconData(0xECF7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_paper_2_fill = RemixIconData(0xECF8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_paper_2_line = RemixIconData(0xECF9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_paper_fill = RemixIconData(0xECFA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_paper_line = RemixIconData(0xECFB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_pdf_fill = RemixIconData(0xECFC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_pdf_line = RemixIconData(0xECFD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_ppt_2_fill = RemixIconData(0xECFE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_ppt_2_line = RemixIconData(0xECFF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_ppt_fill = RemixIconData(0xED00);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_ppt_line = RemixIconData(0xED01);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_reduce_fill = RemixIconData(0xED02);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_reduce_line = RemixIconData(0xED03);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_search_fill = RemixIconData(0xED04);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_search_line = RemixIconData(0xED05);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_settings_fill = RemixIconData(0xED06);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_settings_line = RemixIconData(0xED07);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_shield_2_fill = RemixIconData(0xED08);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_shield_2_line = RemixIconData(0xED09);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_shield_fill = RemixIconData(0xED0A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_shield_line = RemixIconData(0xED0B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_shred_fill = RemixIconData(0xED0C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_shred_line = RemixIconData(0xED0D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_text_fill = RemixIconData(0xED0E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_text_line = RemixIconData(0xED0F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_transfer_fill = RemixIconData(0xED10);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_transfer_line = RemixIconData(0xED11);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_unknow_fill = RemixIconData(0xED12);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_unknow_line = RemixIconData(0xED13);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_upload_fill = RemixIconData(0xED14);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_upload_line = RemixIconData(0xED15);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_user_fill = RemixIconData(0xED16);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_user_line = RemixIconData(0xED17);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_warning_fill = RemixIconData(0xED18);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_warning_line = RemixIconData(0xED19);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_word_2_fill = RemixIconData(0xED1A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_word_2_line = RemixIconData(0xED1B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_word_fill = RemixIconData(0xED1C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_word_line = RemixIconData(0xED1D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_zip_fill = RemixIconData(0xED1E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_zip_line = RemixIconData(0xED1F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData film_fill = RemixIconData(0xED20);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData film_line = RemixIconData(0xED21);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData filter_2_fill = RemixIconData(0xED22);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData filter_2_line = RemixIconData(0xED23);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData filter_3_fill = RemixIconData(0xED24);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData filter_3_line = RemixIconData(0xED25);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData filter_fill = RemixIconData(0xED26);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData filter_line = RemixIconData(0xED27);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData filter_off_fill = RemixIconData(0xED28);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData filter_off_line = RemixIconData(0xED29);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData find_replace_fill = RemixIconData(0xED2A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData find_replace_line = RemixIconData(0xED2B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData finder_fill = RemixIconData(0xED2C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData finder_line = RemixIconData(0xED2D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fingerprint_2_fill = RemixIconData(0xED2E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fingerprint_2_line = RemixIconData(0xED2F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fingerprint_fill = RemixIconData(0xED30);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fingerprint_line = RemixIconData(0xED31);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fire_fill = RemixIconData(0xED32);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fire_line = RemixIconData(0xED33);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData firefox_fill = RemixIconData(0xED34);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData firefox_line = RemixIconData(0xED35);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData first_aid_kit_fill = RemixIconData(0xED36);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData first_aid_kit_line = RemixIconData(0xED37);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flag_2_fill = RemixIconData(0xED38);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flag_2_line = RemixIconData(0xED39);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flag_fill = RemixIconData(0xED3A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flag_line = RemixIconData(0xED3B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flashlight_fill = RemixIconData(0xED3C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flashlight_line = RemixIconData(0xED3D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flask_fill = RemixIconData(0xED3E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flask_line = RemixIconData(0xED3F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flight_land_fill = RemixIconData(0xED40);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flight_land_line = RemixIconData(0xED41);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flight_takeoff_fill = RemixIconData(0xED42);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flight_takeoff_line = RemixIconData(0xED43);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flood_fill = RemixIconData(0xED44);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flood_line = RemixIconData(0xED45);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flow_chart = RemixIconData(0xED46);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flutter_fill = RemixIconData(0xED47);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flutter_line = RemixIconData(0xED48);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData focus_2_fill = RemixIconData(0xED49);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData focus_2_line = RemixIconData(0xED4A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData focus_3_fill = RemixIconData(0xED4B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData focus_3_line = RemixIconData(0xED4C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData focus_fill = RemixIconData(0xED4D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData focus_line = RemixIconData(0xED4E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData foggy_fill = RemixIconData(0xED4F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData foggy_line = RemixIconData(0xED50);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_2_fill = RemixIconData(0xED51);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_2_line = RemixIconData(0xED52);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_3_fill = RemixIconData(0xED53);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_3_line = RemixIconData(0xED54);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_4_fill = RemixIconData(0xED55);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_4_line = RemixIconData(0xED56);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_5_fill = RemixIconData(0xED57);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_5_line = RemixIconData(0xED58);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_add_fill = RemixIconData(0xED59);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_add_line = RemixIconData(0xED5A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_chart_2_fill = RemixIconData(0xED5B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_chart_2_line = RemixIconData(0xED5C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_chart_fill = RemixIconData(0xED5D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_chart_line = RemixIconData(0xED5E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_download_fill = RemixIconData(0xED5F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_download_line = RemixIconData(0xED60);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_fill = RemixIconData(0xED61);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_forbid_fill = RemixIconData(0xED62);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_forbid_line = RemixIconData(0xED63);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_history_fill = RemixIconData(0xED64);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_history_line = RemixIconData(0xED65);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_info_fill = RemixIconData(0xED66);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_info_line = RemixIconData(0xED67);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_keyhole_fill = RemixIconData(0xED68);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_keyhole_line = RemixIconData(0xED69);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_line = RemixIconData(0xED6A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_lock_fill = RemixIconData(0xED6B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_lock_line = RemixIconData(0xED6C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_music_fill = RemixIconData(0xED6D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_music_line = RemixIconData(0xED6E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_open_fill = RemixIconData(0xED6F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_open_line = RemixIconData(0xED70);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_received_fill = RemixIconData(0xED71);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_received_line = RemixIconData(0xED72);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_reduce_fill = RemixIconData(0xED73);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_reduce_line = RemixIconData(0xED74);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_settings_fill = RemixIconData(0xED75);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_settings_line = RemixIconData(0xED76);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_shared_fill = RemixIconData(0xED77);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_shared_line = RemixIconData(0xED78);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_shield_2_fill = RemixIconData(0xED79);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_shield_2_line = RemixIconData(0xED7A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_shield_fill = RemixIconData(0xED7B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_shield_line = RemixIconData(0xED7C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_transfer_fill = RemixIconData(0xED7D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_transfer_line = RemixIconData(0xED7E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_unknow_fill = RemixIconData(0xED7F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_unknow_line = RemixIconData(0xED80);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_upload_fill = RemixIconData(0xED81);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_upload_line = RemixIconData(0xED82);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_user_fill = RemixIconData(0xED83);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_user_line = RemixIconData(0xED84);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_warning_fill = RemixIconData(0xED85);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_warning_line = RemixIconData(0xED86);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_zip_fill = RemixIconData(0xED87);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_zip_line = RemixIconData(0xED88);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folders_fill = RemixIconData(0xED89);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folders_line = RemixIconData(0xED8A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData font_color = RemixIconData(0xED8B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData font_size_2 = RemixIconData(0xED8C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData font_size = RemixIconData(0xED8D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData football_fill = RemixIconData(0xED8E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData football_line = RemixIconData(0xED8F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData footprint_fill = RemixIconData(0xED90);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData footprint_line = RemixIconData(0xED91);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forbid_2_fill = RemixIconData(0xED92);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forbid_2_line = RemixIconData(0xED93);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forbid_fill = RemixIconData(0xED94);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forbid_line = RemixIconData(0xED95);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData format_clear = RemixIconData(0xED96);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fridge_fill = RemixIconData(0xED97);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fridge_line = RemixIconData(0xED98);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fullscreen_exit_fill = RemixIconData(0xED99);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fullscreen_exit_line = RemixIconData(0xED9A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fullscreen_fill = RemixIconData(0xED9B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData fullscreen_line = RemixIconData(0xED9C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData function_fill = RemixIconData(0xED9D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData function_line = RemixIconData(0xED9E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData functions = RemixIconData(0xED9F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData funds_box_fill = RemixIconData(0xEDA0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData funds_box_line = RemixIconData(0xEDA1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData funds_fill = RemixIconData(0xEDA2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData funds_line = RemixIconData(0xEDA3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gallery_fill = RemixIconData(0xEDA4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gallery_line = RemixIconData(0xEDA5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gallery_upload_fill = RemixIconData(0xEDA6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gallery_upload_line = RemixIconData(0xEDA7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData game_fill = RemixIconData(0xEDA8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData game_line = RemixIconData(0xEDA9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gamepad_fill = RemixIconData(0xEDAA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gamepad_line = RemixIconData(0xEDAB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gas_station_fill = RemixIconData(0xEDAC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gas_station_line = RemixIconData(0xEDAD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gatsby_fill = RemixIconData(0xEDAE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gatsby_line = RemixIconData(0xEDAF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData genderless_fill = RemixIconData(0xEDB0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData genderless_line = RemixIconData(0xEDB1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ghost_2_fill = RemixIconData(0xEDB2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ghost_2_line = RemixIconData(0xEDB3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ghost_fill = RemixIconData(0xEDB4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ghost_line = RemixIconData(0xEDB5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ghost_smile_fill = RemixIconData(0xEDB6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ghost_smile_line = RemixIconData(0xEDB7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gift_2_fill = RemixIconData(0xEDB8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gift_2_line = RemixIconData(0xEDB9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gift_fill = RemixIconData(0xEDBA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gift_line = RemixIconData(0xEDBB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_branch_fill = RemixIconData(0xEDBC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_branch_line = RemixIconData(0xEDBD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_commit_fill = RemixIconData(0xEDBE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_commit_line = RemixIconData(0xEDBF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_merge_fill = RemixIconData(0xEDC0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_merge_line = RemixIconData(0xEDC1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_pull_request_fill = RemixIconData(0xEDC2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_pull_request_line = RemixIconData(0xEDC3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_repository_commits_fill = RemixIconData(0xEDC4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_repository_commits_line = RemixIconData(0xEDC5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_repository_fill = RemixIconData(0xEDC6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_repository_line = RemixIconData(0xEDC7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_repository_private_fill = RemixIconData(0xEDC8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_repository_private_line = RemixIconData(0xEDC9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData github_fill = RemixIconData(0xEDCA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData github_line = RemixIconData(0xEDCB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gitlab_fill = RemixIconData(0xEDCC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gitlab_line = RemixIconData(0xEDCD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData global_fill = RemixIconData(0xEDCE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData global_line = RemixIconData(0xEDCF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData globe_fill = RemixIconData(0xEDD0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData globe_line = RemixIconData(0xEDD1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData goblet_fill = RemixIconData(0xEDD2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData goblet_line = RemixIconData(0xEDD3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData google_fill = RemixIconData(0xEDD4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData google_line = RemixIconData(0xEDD5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData google_play_fill = RemixIconData(0xEDD6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData google_play_line = RemixIconData(0xEDD7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData government_fill = RemixIconData(0xEDD8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData government_line = RemixIconData(0xEDD9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gps_fill = RemixIconData(0xEDDA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gps_line = RemixIconData(0xEDDB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gradienter_fill = RemixIconData(0xEDDC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData gradienter_line = RemixIconData(0xEDDD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData grid_fill = RemixIconData(0xEDDE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData grid_line = RemixIconData(0xEDDF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData group_2_fill = RemixIconData(0xEDE0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData group_2_line = RemixIconData(0xEDE1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData group_fill = RemixIconData(0xEDE2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData group_line = RemixIconData(0xEDE3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData guide_fill = RemixIconData(0xEDE4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData guide_line = RemixIconData(0xEDE5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData h_1 = RemixIconData(0xEDE6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData h_2 = RemixIconData(0xEDE7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData h_3 = RemixIconData(0xEDE8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData h_4 = RemixIconData(0xEDE9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData h_5 = RemixIconData(0xEDEA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData h_6 = RemixIconData(0xEDEB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hail_fill = RemixIconData(0xEDEC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hail_line = RemixIconData(0xEDED);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hammer_fill = RemixIconData(0xEDEE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hammer_line = RemixIconData(0xEDEF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hand_coin_fill = RemixIconData(0xEDF0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hand_coin_line = RemixIconData(0xEDF1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hand_heart_fill = RemixIconData(0xEDF2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hand_heart_line = RemixIconData(0xEDF3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hand_sanitizer_fill = RemixIconData(0xEDF4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hand_sanitizer_line = RemixIconData(0xEDF5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData handbag_fill = RemixIconData(0xEDF6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData handbag_line = RemixIconData(0xEDF7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hard_drive_2_fill = RemixIconData(0xEDF8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hard_drive_2_line = RemixIconData(0xEDF9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hard_drive_fill = RemixIconData(0xEDFA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hard_drive_line = RemixIconData(0xEDFB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hashtag = RemixIconData(0xEDFC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData haze_2_fill = RemixIconData(0xEDFD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData haze_2_line = RemixIconData(0xEDFE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData haze_fill = RemixIconData(0xEDFF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData haze_line = RemixIconData(0xEE00);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hd_fill = RemixIconData(0xEE01);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hd_line = RemixIconData(0xEE02);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heading = RemixIconData(0xEE03);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData headphone_fill = RemixIconData(0xEE04);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData headphone_line = RemixIconData(0xEE05);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData health_book_fill = RemixIconData(0xEE06);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData health_book_line = RemixIconData(0xEE07);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heart_2_fill = RemixIconData(0xEE08);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heart_2_line = RemixIconData(0xEE09);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heart_3_fill = RemixIconData(0xEE0A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heart_3_line = RemixIconData(0xEE0B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heart_add_fill = RemixIconData(0xEE0C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heart_add_line = RemixIconData(0xEE0D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heart_fill = RemixIconData(0xEE0E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heart_line = RemixIconData(0xEE0F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heart_pulse_fill = RemixIconData(0xEE10);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heart_pulse_line = RemixIconData(0xEE11);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hearts_fill = RemixIconData(0xEE12);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hearts_line = RemixIconData(0xEE13);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heavy_showers_fill = RemixIconData(0xEE14);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData heavy_showers_line = RemixIconData(0xEE15);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData history_fill = RemixIconData(0xEE16);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData history_line = RemixIconData(0xEE17);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_2_fill = RemixIconData(0xEE18);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_2_line = RemixIconData(0xEE19);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_3_fill = RemixIconData(0xEE1A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_3_line = RemixIconData(0xEE1B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_4_fill = RemixIconData(0xEE1C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_4_line = RemixIconData(0xEE1D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_5_fill = RemixIconData(0xEE1E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_5_line = RemixIconData(0xEE1F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_6_fill = RemixIconData(0xEE20);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_6_line = RemixIconData(0xEE21);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_7_fill = RemixIconData(0xEE22);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_7_line = RemixIconData(0xEE23);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_8_fill = RemixIconData(0xEE24);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_8_line = RemixIconData(0xEE25);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_fill = RemixIconData(0xEE26);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_gear_fill = RemixIconData(0xEE27);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_gear_line = RemixIconData(0xEE28);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_heart_fill = RemixIconData(0xEE29);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_heart_line = RemixIconData(0xEE2A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_line = RemixIconData(0xEE2B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_smile_2_fill = RemixIconData(0xEE2C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_smile_2_line = RemixIconData(0xEE2D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_smile_fill = RemixIconData(0xEE2E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_smile_line = RemixIconData(0xEE2F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_wifi_fill = RemixIconData(0xEE30);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_wifi_line = RemixIconData(0xEE31);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData honor_of_kings_fill = RemixIconData(0xEE32);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData honor_of_kings_line = RemixIconData(0xEE33);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData honour_fill = RemixIconData(0xEE34);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData honour_line = RemixIconData(0xEE35);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hospital_fill = RemixIconData(0xEE36);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hospital_line = RemixIconData(0xEE37);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hotel_bed_fill = RemixIconData(0xEE38);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hotel_bed_line = RemixIconData(0xEE39);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hotel_fill = RemixIconData(0xEE3A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hotel_line = RemixIconData(0xEE3B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hotspot_fill = RemixIconData(0xEE3C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hotspot_line = RemixIconData(0xEE3D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hq_fill = RemixIconData(0xEE3E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hq_line = RemixIconData(0xEE3F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData html5_fill = RemixIconData(0xEE40);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData html5_line = RemixIconData(0xEE41);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ie_fill = RemixIconData(0xEE42);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ie_line = RemixIconData(0xEE43);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData image_2_fill = RemixIconData(0xEE44);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData image_2_line = RemixIconData(0xEE45);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData image_add_fill = RemixIconData(0xEE46);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData image_add_line = RemixIconData(0xEE47);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData image_edit_fill = RemixIconData(0xEE48);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData image_edit_line = RemixIconData(0xEE49);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData image_fill = RemixIconData(0xEE4A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData image_line = RemixIconData(0xEE4B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData inbox_archive_fill = RemixIconData(0xEE4C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData inbox_archive_line = RemixIconData(0xEE4D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData inbox_fill = RemixIconData(0xEE4E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData inbox_line = RemixIconData(0xEE4F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData inbox_unarchive_fill = RemixIconData(0xEE50);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData inbox_unarchive_line = RemixIconData(0xEE51);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData increase_decrease_fill = RemixIconData(0xEE52);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData increase_decrease_line = RemixIconData(0xEE53);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData indent_decrease = RemixIconData(0xEE54);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData indent_increase = RemixIconData(0xEE55);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData indeterminate_circle_fill = RemixIconData(0xEE56);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData indeterminate_circle_line = RemixIconData(0xEE57);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData information_fill = RemixIconData(0xEE58);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData information_line = RemixIconData(0xEE59);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData infrared_thermometer_fill = RemixIconData(0xEE5A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData infrared_thermometer_line = RemixIconData(0xEE5B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ink_bottle_fill = RemixIconData(0xEE5C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ink_bottle_line = RemixIconData(0xEE5D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData input_cursor_move = RemixIconData(0xEE5E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData input_method_fill = RemixIconData(0xEE5F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData input_method_line = RemixIconData(0xEE60);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData insert_column_left = RemixIconData(0xEE61);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData insert_column_right = RemixIconData(0xEE62);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData insert_row_bottom = RemixIconData(0xEE63);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData insert_row_top = RemixIconData(0xEE64);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData instagram_fill = RemixIconData(0xEE65);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData instagram_line = RemixIconData(0xEE66);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData install_fill = RemixIconData(0xEE67);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData install_line = RemixIconData(0xEE68);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData invision_fill = RemixIconData(0xEE69);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData invision_line = RemixIconData(0xEE6A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData italic = RemixIconData(0xEE6B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData kakao_talk_fill = RemixIconData(0xEE6C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData kakao_talk_line = RemixIconData(0xEE6D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData key_2_fill = RemixIconData(0xEE6E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData key_2_line = RemixIconData(0xEE6F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData key_fill = RemixIconData(0xEE70);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData key_line = RemixIconData(0xEE71);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData keyboard_box_fill = RemixIconData(0xEE72);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData keyboard_box_line = RemixIconData(0xEE73);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData keyboard_fill = RemixIconData(0xEE74);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData keyboard_line = RemixIconData(0xEE75);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData keynote_fill = RemixIconData(0xEE76);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData keynote_line = RemixIconData(0xEE77);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData knife_blood_fill = RemixIconData(0xEE78);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData knife_blood_line = RemixIconData(0xEE79);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData knife_fill = RemixIconData(0xEE7A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData knife_line = RemixIconData(0xEE7B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData landscape_fill = RemixIconData(0xEE7C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData landscape_line = RemixIconData(0xEE7D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_2_fill = RemixIconData(0xEE7E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_2_line = RemixIconData(0xEE7F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_3_fill = RemixIconData(0xEE80);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_3_line = RemixIconData(0xEE81);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_4_fill = RemixIconData(0xEE82);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_4_line = RemixIconData(0xEE83);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_5_fill = RemixIconData(0xEE84);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_5_line = RemixIconData(0xEE85);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_6_fill = RemixIconData(0xEE86);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_6_line = RemixIconData(0xEE87);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_bottom_2_fill = RemixIconData(0xEE88);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_bottom_2_line = RemixIconData(0xEE89);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_bottom_fill = RemixIconData(0xEE8A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_bottom_line = RemixIconData(0xEE8B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_column_fill = RemixIconData(0xEE8C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_column_line = RemixIconData(0xEE8D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_fill = RemixIconData(0xEE8E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_grid_fill = RemixIconData(0xEE8F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_grid_line = RemixIconData(0xEE90);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_left_2_fill = RemixIconData(0xEE91);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_left_2_line = RemixIconData(0xEE92);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_left_fill = RemixIconData(0xEE93);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_left_line = RemixIconData(0xEE94);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_line = RemixIconData(0xEE95);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_masonry_fill = RemixIconData(0xEE96);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_masonry_line = RemixIconData(0xEE97);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_right_2_fill = RemixIconData(0xEE98);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_right_2_line = RemixIconData(0xEE99);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_right_fill = RemixIconData(0xEE9A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_right_line = RemixIconData(0xEE9B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_row_fill = RemixIconData(0xEE9C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_row_line = RemixIconData(0xEE9D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_top_2_fill = RemixIconData(0xEE9E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_top_2_line = RemixIconData(0xEE9F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_top_fill = RemixIconData(0xEEA0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData layout_top_line = RemixIconData(0xEEA1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData leaf_fill = RemixIconData(0xEEA2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData leaf_line = RemixIconData(0xEEA3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lifebuoy_fill = RemixIconData(0xEEA4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lifebuoy_line = RemixIconData(0xEEA5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lightbulb_fill = RemixIconData(0xEEA6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lightbulb_flash_fill = RemixIconData(0xEEA7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lightbulb_flash_line = RemixIconData(0xEEA8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lightbulb_line = RemixIconData(0xEEA9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData line_chart_fill = RemixIconData(0xEEAA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData line_chart_line = RemixIconData(0xEEAB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData line_fill = RemixIconData(0xEEAC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData line_height = RemixIconData(0xEEAD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData line_line = RemixIconData(0xEEAE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData link_m = RemixIconData(0xEEAF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData link_unlink_m = RemixIconData(0xEEB0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData link_unlink = RemixIconData(0xEEB1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData link = RemixIconData(0xEEB2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData linkedin_box_fill = RemixIconData(0xEEB3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData linkedin_box_line = RemixIconData(0xEEB4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData linkedin_fill = RemixIconData(0xEEB5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData linkedin_line = RemixIconData(0xEEB6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData links_fill = RemixIconData(0xEEB7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData links_line = RemixIconData(0xEEB8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData list_check_2 = RemixIconData(0xEEB9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData list_check = RemixIconData(0xEEBA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData list_ordered = RemixIconData(0xEEBB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData list_settings_fill = RemixIconData(0xEEBC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData list_settings_line = RemixIconData(0xEEBD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData list_unordered = RemixIconData(0xEEBE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData live_fill = RemixIconData(0xEEBF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData live_line = RemixIconData(0xEEC0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loader_2_fill = RemixIconData(0xEEC1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loader_2_line = RemixIconData(0xEEC2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loader_3_fill = RemixIconData(0xEEC3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loader_3_line = RemixIconData(0xEEC4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loader_4_fill = RemixIconData(0xEEC5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loader_4_line = RemixIconData(0xEEC6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loader_5_fill = RemixIconData(0xEEC7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loader_5_line = RemixIconData(0xEEC8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loader_fill = RemixIconData(0xEEC9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loader_line = RemixIconData(0xEECA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lock_2_fill = RemixIconData(0xEECB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lock_2_line = RemixIconData(0xEECC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lock_fill = RemixIconData(0xEECD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lock_line = RemixIconData(0xEECE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lock_password_fill = RemixIconData(0xEECF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lock_password_line = RemixIconData(0xEED0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lock_unlock_fill = RemixIconData(0xEED1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lock_unlock_line = RemixIconData(0xEED2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData login_box_fill = RemixIconData(0xEED3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData login_box_line = RemixIconData(0xEED4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData login_circle_fill = RemixIconData(0xEED5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData login_circle_line = RemixIconData(0xEED6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData logout_box_fill = RemixIconData(0xEED7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData logout_box_line = RemixIconData(0xEED8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData logout_box_r_fill = RemixIconData(0xEED9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData logout_box_r_line = RemixIconData(0xEEDA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData logout_circle_fill = RemixIconData(0xEEDB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData logout_circle_line = RemixIconData(0xEEDC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData logout_circle_r_fill = RemixIconData(0xEEDD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData logout_circle_r_line = RemixIconData(0xEEDE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData luggage_cart_fill = RemixIconData(0xEEDF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData luggage_cart_line = RemixIconData(0xEEE0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData luggage_deposit_fill = RemixIconData(0xEEE1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData luggage_deposit_line = RemixIconData(0xEEE2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lungs_fill = RemixIconData(0xEEE3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData lungs_line = RemixIconData(0xEEE4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mac_fill = RemixIconData(0xEEE5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mac_line = RemixIconData(0xEEE6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData macbook_fill = RemixIconData(0xEEE7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData macbook_line = RemixIconData(0xEEE8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData magic_fill = RemixIconData(0xEEE9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData magic_line = RemixIconData(0xEEEA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_add_fill = RemixIconData(0xEEEB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_add_line = RemixIconData(0xEEEC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_check_fill = RemixIconData(0xEEED);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_check_line = RemixIconData(0xEEEE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_close_fill = RemixIconData(0xEEEF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_close_line = RemixIconData(0xEEF0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_download_fill = RemixIconData(0xEEF1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_download_line = RemixIconData(0xEEF2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_fill = RemixIconData(0xEEF3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_forbid_fill = RemixIconData(0xEEF4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_forbid_line = RemixIconData(0xEEF5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_line = RemixIconData(0xEEF6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_lock_fill = RemixIconData(0xEEF7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_lock_line = RemixIconData(0xEEF8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_open_fill = RemixIconData(0xEEF9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_open_line = RemixIconData(0xEEFA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_send_fill = RemixIconData(0xEEFB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_send_line = RemixIconData(0xEEFC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_settings_fill = RemixIconData(0xEEFD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_settings_line = RemixIconData(0xEEFE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_star_fill = RemixIconData(0xEEFF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_star_line = RemixIconData(0xEF00);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_unread_fill = RemixIconData(0xEF01);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_unread_line = RemixIconData(0xEF02);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_volume_fill = RemixIconData(0xEF03);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mail_volume_line = RemixIconData(0xEF04);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_2_fill = RemixIconData(0xEF05);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_2_line = RemixIconData(0xEF06);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_fill = RemixIconData(0xEF07);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_line = RemixIconData(0xEF08);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_2_fill = RemixIconData(0xEF09);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_2_line = RemixIconData(0xEF0A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_3_fill = RemixIconData(0xEF0B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_3_line = RemixIconData(0xEF0C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_4_fill = RemixIconData(0xEF0D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_4_line = RemixIconData(0xEF0E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_5_fill = RemixIconData(0xEF0F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_5_line = RemixIconData(0xEF10);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_add_fill = RemixIconData(0xEF11);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_add_line = RemixIconData(0xEF12);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_fill = RemixIconData(0xEF13);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_line = RemixIconData(0xEF14);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_range_fill = RemixIconData(0xEF15);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_range_line = RemixIconData(0xEF16);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_time_fill = RemixIconData(0xEF17);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_time_line = RemixIconData(0xEF18);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_user_fill = RemixIconData(0xEF19);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData map_pin_user_line = RemixIconData(0xEF1A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mark_pen_fill = RemixIconData(0xEF1B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mark_pen_line = RemixIconData(0xEF1C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData markdown_fill = RemixIconData(0xEF1D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData markdown_line = RemixIconData(0xEF1E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData markup_fill = RemixIconData(0xEF1F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData markup_line = RemixIconData(0xEF20);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mastercard_fill = RemixIconData(0xEF21);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mastercard_line = RemixIconData(0xEF22);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mastodon_fill = RemixIconData(0xEF23);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mastodon_line = RemixIconData(0xEF24);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData medal_2_fill = RemixIconData(0xEF25);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData medal_2_line = RemixIconData(0xEF26);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData medal_fill = RemixIconData(0xEF27);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData medal_line = RemixIconData(0xEF28);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData medicine_bottle_fill = RemixIconData(0xEF29);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData medicine_bottle_line = RemixIconData(0xEF2A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData medium_fill = RemixIconData(0xEF2B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData medium_line = RemixIconData(0xEF2C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData men_fill = RemixIconData(0xEF2D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData men_line = RemixIconData(0xEF2E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mental_health_fill = RemixIconData(0xEF2F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mental_health_line = RemixIconData(0xEF30);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_2_fill = RemixIconData(0xEF31);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_2_line = RemixIconData(0xEF32);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_3_fill = RemixIconData(0xEF33);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_3_line = RemixIconData(0xEF34);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_4_fill = RemixIconData(0xEF35);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_4_line = RemixIconData(0xEF36);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_5_fill = RemixIconData(0xEF37);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_5_line = RemixIconData(0xEF38);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_add_fill = RemixIconData(0xEF39);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_add_line = RemixIconData(0xEF3A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_fill = RemixIconData(0xEF3B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_fold_fill = RemixIconData(0xEF3C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_fold_line = RemixIconData(0xEF3D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_line = RemixIconData(0xEF3E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_unfold_fill = RemixIconData(0xEF3F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_unfold_line = RemixIconData(0xEF40);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData merge_cells_horizontal = RemixIconData(0xEF41);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData merge_cells_vertical = RemixIconData(0xEF42);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData message_2_fill = RemixIconData(0xEF43);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData message_2_line = RemixIconData(0xEF44);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData message_3_fill = RemixIconData(0xEF45);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData message_3_line = RemixIconData(0xEF46);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData message_fill = RemixIconData(0xEF47);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData message_line = RemixIconData(0xEF48);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData messenger_fill = RemixIconData(0xEF49);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData messenger_line = RemixIconData(0xEF4A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData meteor_fill = RemixIconData(0xEF4B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData meteor_line = RemixIconData(0xEF4C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mic_2_fill = RemixIconData(0xEF4D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mic_2_line = RemixIconData(0xEF4E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mic_fill = RemixIconData(0xEF4F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mic_line = RemixIconData(0xEF50);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mic_off_fill = RemixIconData(0xEF51);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mic_off_line = RemixIconData(0xEF52);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mickey_fill = RemixIconData(0xEF53);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mickey_line = RemixIconData(0xEF54);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData microscope_fill = RemixIconData(0xEF55);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData microscope_line = RemixIconData(0xEF56);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData microsoft_fill = RemixIconData(0xEF57);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData microsoft_line = RemixIconData(0xEF58);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mind_map = RemixIconData(0xEF59);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mini_program_fill = RemixIconData(0xEF5A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mini_program_line = RemixIconData(0xEF5B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mist_fill = RemixIconData(0xEF5C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mist_line = RemixIconData(0xEF5D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_cny_box_fill = RemixIconData(0xEF5E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_cny_box_line = RemixIconData(0xEF5F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_cny_circle_fill = RemixIconData(0xEF60);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_cny_circle_line = RemixIconData(0xEF61);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_dollar_box_fill = RemixIconData(0xEF62);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_dollar_box_line = RemixIconData(0xEF63);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_dollar_circle_fill = RemixIconData(0xEF64);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_dollar_circle_line = RemixIconData(0xEF65);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_euro_box_fill = RemixIconData(0xEF66);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_euro_box_line = RemixIconData(0xEF67);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_euro_circle_fill = RemixIconData(0xEF68);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_euro_circle_line = RemixIconData(0xEF69);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_pound_box_fill = RemixIconData(0xEF6A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_pound_box_line = RemixIconData(0xEF6B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_pound_circle_fill = RemixIconData(0xEF6C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData money_pound_circle_line = RemixIconData(0xEF6D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData moon_clear_fill = RemixIconData(0xEF6E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData moon_clear_line = RemixIconData(0xEF6F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData moon_cloudy_fill = RemixIconData(0xEF70);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData moon_cloudy_line = RemixIconData(0xEF71);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData moon_fill = RemixIconData(0xEF72);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData moon_foggy_fill = RemixIconData(0xEF73);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData moon_foggy_line = RemixIconData(0xEF74);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData moon_line = RemixIconData(0xEF75);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData more_2_fill = RemixIconData(0xEF76);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData more_2_line = RemixIconData(0xEF77);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData more_fill = RemixIconData(0xEF78);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData more_line = RemixIconData(0xEF79);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData motorbike_fill = RemixIconData(0xEF7A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData motorbike_line = RemixIconData(0xEF7B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mouse_fill = RemixIconData(0xEF7C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mouse_line = RemixIconData(0xEF7D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData movie_2_fill = RemixIconData(0xEF7E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData movie_2_line = RemixIconData(0xEF7F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData movie_fill = RemixIconData(0xEF80);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData movie_line = RemixIconData(0xEF81);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData music_2_fill = RemixIconData(0xEF82);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData music_2_line = RemixIconData(0xEF83);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData music_fill = RemixIconData(0xEF84);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData music_line = RemixIconData(0xEF85);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mv_fill = RemixIconData(0xEF86);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData mv_line = RemixIconData(0xEF87);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData navigation_fill = RemixIconData(0xEF88);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData navigation_line = RemixIconData(0xEF89);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData netease_cloud_music_fill = RemixIconData(0xEF8A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData netease_cloud_music_line = RemixIconData(0xEF8B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData netflix_fill = RemixIconData(0xEF8C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData netflix_line = RemixIconData(0xEF8D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData newspaper_fill = RemixIconData(0xEF8E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData newspaper_line = RemixIconData(0xEF8F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData node_tree = RemixIconData(0xEF90);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_2_fill = RemixIconData(0xEF91);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_2_line = RemixIconData(0xEF92);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_3_fill = RemixIconData(0xEF93);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_3_line = RemixIconData(0xEF94);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_4_fill = RemixIconData(0xEF95);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_4_line = RemixIconData(0xEF96);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_badge_fill = RemixIconData(0xEF97);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_badge_line = RemixIconData(0xEF98);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_fill = RemixIconData(0xEF99);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_line = RemixIconData(0xEF9A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_off_fill = RemixIconData(0xEF9B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notification_off_line = RemixIconData(0xEF9C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData npmjs_fill = RemixIconData(0xEF9D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData npmjs_line = RemixIconData(0xEF9E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData number_0 = RemixIconData(0xEF9F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData number_1 = RemixIconData(0xEFA0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData number_2 = RemixIconData(0xEFA1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData number_3 = RemixIconData(0xEFA2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData number_4 = RemixIconData(0xEFA3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData number_5 = RemixIconData(0xEFA4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData number_6 = RemixIconData(0xEFA5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData number_7 = RemixIconData(0xEFA6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData number_8 = RemixIconData(0xEFA7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData number_9 = RemixIconData(0xEFA8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData numbers_fill = RemixIconData(0xEFA9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData numbers_line = RemixIconData(0xEFAA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData nurse_fill = RemixIconData(0xEFAB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData nurse_line = RemixIconData(0xEFAC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData oil_fill = RemixIconData(0xEFAD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData oil_line = RemixIconData(0xEFAE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData omega = RemixIconData(0xEFAF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData open_arm_fill = RemixIconData(0xEFB0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData open_arm_line = RemixIconData(0xEFB1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData open_source_fill = RemixIconData(0xEFB2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData open_source_line = RemixIconData(0xEFB3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData opera_fill = RemixIconData(0xEFB4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData opera_line = RemixIconData(0xEFB5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData order_play_fill = RemixIconData(0xEFB6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData order_play_line = RemixIconData(0xEFB7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData organization_chart = RemixIconData(0xEFB8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData outlet_2_fill = RemixIconData(0xEFB9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData outlet_2_line = RemixIconData(0xEFBA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData outlet_fill = RemixIconData(0xEFBB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData outlet_line = RemixIconData(0xEFBC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData page_separator = RemixIconData(0xEFBD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pages_fill = RemixIconData(0xEFBE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pages_line = RemixIconData(0xEFBF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData paint_brush_fill = RemixIconData(0xEFC0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData paint_brush_line = RemixIconData(0xEFC1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData paint_fill = RemixIconData(0xEFC2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData paint_line = RemixIconData(0xEFC3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData palette_fill = RemixIconData(0xEFC4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData palette_line = RemixIconData(0xEFC5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pantone_fill = RemixIconData(0xEFC6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pantone_line = RemixIconData(0xEFC7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData paragraph = RemixIconData(0xEFC8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData parent_fill = RemixIconData(0xEFC9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData parent_line = RemixIconData(0xEFCA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData parentheses_fill = RemixIconData(0xEFCB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData parentheses_line = RemixIconData(0xEFCC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData parking_box_fill = RemixIconData(0xEFCD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData parking_box_line = RemixIconData(0xEFCE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData parking_fill = RemixIconData(0xEFCF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData parking_line = RemixIconData(0xEFD0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData passport_fill = RemixIconData(0xEFD1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData passport_line = RemixIconData(0xEFD2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData patreon_fill = RemixIconData(0xEFD3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData patreon_line = RemixIconData(0xEFD4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pause_circle_fill = RemixIconData(0xEFD5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pause_circle_line = RemixIconData(0xEFD6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pause_fill = RemixIconData(0xEFD7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pause_line = RemixIconData(0xEFD8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pause_mini_fill = RemixIconData(0xEFD9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pause_mini_line = RemixIconData(0xEFDA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData paypal_fill = RemixIconData(0xEFDB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData paypal_line = RemixIconData(0xEFDC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pen_nib_fill = RemixIconData(0xEFDD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pen_nib_line = RemixIconData(0xEFDE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pencil_fill = RemixIconData(0xEFDF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pencil_line = RemixIconData(0xEFE0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pencil_ruler_2_fill = RemixIconData(0xEFE1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pencil_ruler_2_line = RemixIconData(0xEFE2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pencil_ruler_fill = RemixIconData(0xEFE3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pencil_ruler_line = RemixIconData(0xEFE4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData percent_fill = RemixIconData(0xEFE5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData percent_line = RemixIconData(0xEFE6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData phone_camera_fill = RemixIconData(0xEFE7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData phone_camera_line = RemixIconData(0xEFE8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData phone_fill = RemixIconData(0xEFE9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData phone_find_fill = RemixIconData(0xEFEA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData phone_find_line = RemixIconData(0xEFEB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData phone_line = RemixIconData(0xEFEC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData phone_lock_fill = RemixIconData(0xEFED);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData phone_lock_line = RemixIconData(0xEFEE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData picture_in_picture_2_fill = RemixIconData(0xEFEF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData picture_in_picture_2_line = RemixIconData(0xEFF0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData picture_in_picture_exit_fill = RemixIconData(0xEFF1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData picture_in_picture_exit_line = RemixIconData(0xEFF2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData picture_in_picture_fill = RemixIconData(0xEFF3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData picture_in_picture_line = RemixIconData(0xEFF4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pie_chart_2_fill = RemixIconData(0xEFF5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pie_chart_2_line = RemixIconData(0xEFF6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pie_chart_box_fill = RemixIconData(0xEFF7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pie_chart_box_line = RemixIconData(0xEFF8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pie_chart_fill = RemixIconData(0xEFF9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pie_chart_line = RemixIconData(0xEFFA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pin_distance_fill = RemixIconData(0xEFFB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pin_distance_line = RemixIconData(0xEFFC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ping_pong_fill = RemixIconData(0xEFFD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ping_pong_line = RemixIconData(0xEFFE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pinterest_fill = RemixIconData(0xEFFF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pinterest_line = RemixIconData(0xF000);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pinyin_input = RemixIconData(0xF001);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pixelfed_fill = RemixIconData(0xF002);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pixelfed_line = RemixIconData(0xF003);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData plane_fill = RemixIconData(0xF004);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData plane_line = RemixIconData(0xF005);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData plant_fill = RemixIconData(0xF006);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData plant_line = RemixIconData(0xF007);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_circle_fill = RemixIconData(0xF008);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_circle_line = RemixIconData(0xF009);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_fill = RemixIconData(0xF00A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_line = RemixIconData(0xF00B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_list_2_fill = RemixIconData(0xF00C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_list_2_line = RemixIconData(0xF00D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_list_add_fill = RemixIconData(0xF00E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_list_add_line = RemixIconData(0xF00F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_list_fill = RemixIconData(0xF010);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_list_line = RemixIconData(0xF011);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_mini_fill = RemixIconData(0xF012);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData play_mini_line = RemixIconData(0xF013);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData playstation_fill = RemixIconData(0xF014);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData playstation_line = RemixIconData(0xF015);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData plug_2_fill = RemixIconData(0xF016);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData plug_2_line = RemixIconData(0xF017);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData plug_fill = RemixIconData(0xF018);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData plug_line = RemixIconData(0xF019);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData polaroid_2_fill = RemixIconData(0xF01A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData polaroid_2_line = RemixIconData(0xF01B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData polaroid_fill = RemixIconData(0xF01C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData polaroid_line = RemixIconData(0xF01D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData police_car_fill = RemixIconData(0xF01E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData police_car_line = RemixIconData(0xF01F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData price_tag_2_fill = RemixIconData(0xF020);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData price_tag_2_line = RemixIconData(0xF021);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData price_tag_3_fill = RemixIconData(0xF022);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData price_tag_3_line = RemixIconData(0xF023);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData price_tag_fill = RemixIconData(0xF024);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData price_tag_line = RemixIconData(0xF025);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData printer_cloud_fill = RemixIconData(0xF026);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData printer_cloud_line = RemixIconData(0xF027);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData printer_fill = RemixIconData(0xF028);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData printer_line = RemixIconData(0xF029);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData product_hunt_fill = RemixIconData(0xF02A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData product_hunt_line = RemixIconData(0xF02B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData profile_fill = RemixIconData(0xF02C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData profile_line = RemixIconData(0xF02D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData projector_2_fill = RemixIconData(0xF02E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData projector_2_line = RemixIconData(0xF02F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData projector_fill = RemixIconData(0xF030);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData projector_line = RemixIconData(0xF031);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData psychotherapy_fill = RemixIconData(0xF032);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData psychotherapy_line = RemixIconData(0xF033);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pulse_fill = RemixIconData(0xF034);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pulse_line = RemixIconData(0xF035);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pushpin_2_fill = RemixIconData(0xF036);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pushpin_2_line = RemixIconData(0xF037);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pushpin_fill = RemixIconData(0xF038);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pushpin_line = RemixIconData(0xF039);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData qq_fill = RemixIconData(0xF03A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData qq_line = RemixIconData(0xF03B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData qr_code_fill = RemixIconData(0xF03C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData qr_code_line = RemixIconData(0xF03D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData qr_scan_2_fill = RemixIconData(0xF03E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData qr_scan_2_line = RemixIconData(0xF03F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData qr_scan_fill = RemixIconData(0xF040);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData qr_scan_line = RemixIconData(0xF041);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData question_answer_fill = RemixIconData(0xF042);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData question_answer_line = RemixIconData(0xF043);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData question_fill = RemixIconData(0xF044);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData question_line = RemixIconData(0xF045);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData question_mark = RemixIconData(0xF046);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData questionnaire_fill = RemixIconData(0xF047);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData questionnaire_line = RemixIconData(0xF048);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData quill_pen_fill = RemixIconData(0xF049);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData quill_pen_line = RemixIconData(0xF04A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData radar_fill = RemixIconData(0xF04B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData radar_line = RemixIconData(0xF04C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData radio_2_fill = RemixIconData(0xF04D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData radio_2_line = RemixIconData(0xF04E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData radio_button_fill = RemixIconData(0xF04F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData radio_button_line = RemixIconData(0xF050);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData radio_fill = RemixIconData(0xF051);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData radio_line = RemixIconData(0xF052);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rainbow_fill = RemixIconData(0xF053);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rainbow_line = RemixIconData(0xF054);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rainy_fill = RemixIconData(0xF055);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rainy_line = RemixIconData(0xF056);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData reactjs_fill = RemixIconData(0xF057);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData reactjs_line = RemixIconData(0xF058);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData record_circle_fill = RemixIconData(0xF059);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData record_circle_line = RemixIconData(0xF05A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData record_mail_fill = RemixIconData(0xF05B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData record_mail_line = RemixIconData(0xF05C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData recycle_fill = RemixIconData(0xF05D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData recycle_line = RemixIconData(0xF05E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData red_packet_fill = RemixIconData(0xF05F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData red_packet_line = RemixIconData(0xF060);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData reddit_fill = RemixIconData(0xF061);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData reddit_line = RemixIconData(0xF062);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData refresh_fill = RemixIconData(0xF063);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData refresh_line = RemixIconData(0xF064);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData refund_2_fill = RemixIconData(0xF065);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData refund_2_line = RemixIconData(0xF066);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData refund_fill = RemixIconData(0xF067);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData refund_line = RemixIconData(0xF068);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData registered_fill = RemixIconData(0xF069);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData registered_line = RemixIconData(0xF06A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData remixicon_fill = RemixIconData(0xF06B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData remixicon_line = RemixIconData(0xF06C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData remote_control_2_fill = RemixIconData(0xF06D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData remote_control_2_line = RemixIconData(0xF06E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData remote_control_fill = RemixIconData(0xF06F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData remote_control_line = RemixIconData(0xF070);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData repeat_2_fill = RemixIconData(0xF071);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData repeat_2_line = RemixIconData(0xF072);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData repeat_fill = RemixIconData(0xF073);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData repeat_line = RemixIconData(0xF074);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData repeat_one_fill = RemixIconData(0xF075);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData repeat_one_line = RemixIconData(0xF076);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData reply_all_fill = RemixIconData(0xF077);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData reply_all_line = RemixIconData(0xF078);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData reply_fill = RemixIconData(0xF079);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData reply_line = RemixIconData(0xF07A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData reserved_fill = RemixIconData(0xF07B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData reserved_line = RemixIconData(0xF07C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rest_time_fill = RemixIconData(0xF07D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rest_time_line = RemixIconData(0xF07E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData restart_fill = RemixIconData(0xF07F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData restart_line = RemixIconData(0xF080);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData restaurant_2_fill = RemixIconData(0xF081);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData restaurant_2_line = RemixIconData(0xF082);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData restaurant_fill = RemixIconData(0xF083);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData restaurant_line = RemixIconData(0xF084);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rewind_fill = RemixIconData(0xF085);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rewind_line = RemixIconData(0xF086);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rewind_mini_fill = RemixIconData(0xF087);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rewind_mini_line = RemixIconData(0xF088);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rhythm_fill = RemixIconData(0xF089);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rhythm_line = RemixIconData(0xF08A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData riding_fill = RemixIconData(0xF08B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData riding_line = RemixIconData(0xF08C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData road_map_fill = RemixIconData(0xF08D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData road_map_line = RemixIconData(0xF08E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData roadster_fill = RemixIconData(0xF08F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData roadster_line = RemixIconData(0xF090);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData robot_fill = RemixIconData(0xF091);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData robot_line = RemixIconData(0xF092);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rocket_2_fill = RemixIconData(0xF093);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rocket_2_line = RemixIconData(0xF094);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rocket_fill = RemixIconData(0xF095);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rocket_line = RemixIconData(0xF096);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rotate_lock_fill = RemixIconData(0xF097);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rotate_lock_line = RemixIconData(0xF098);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rounded_corner = RemixIconData(0xF099);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData route_fill = RemixIconData(0xF09A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData route_line = RemixIconData(0xF09B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData router_fill = RemixIconData(0xF09C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData router_line = RemixIconData(0xF09D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rss_fill = RemixIconData(0xF09E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rss_line = RemixIconData(0xF09F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ruler_2_fill = RemixIconData(0xF0A0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ruler_2_line = RemixIconData(0xF0A1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ruler_fill = RemixIconData(0xF0A2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ruler_line = RemixIconData(0xF0A3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData run_fill = RemixIconData(0xF0A4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData run_line = RemixIconData(0xF0A5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData safari_fill = RemixIconData(0xF0A6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData safari_line = RemixIconData(0xF0A7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData safe_2_fill = RemixIconData(0xF0A8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData safe_2_line = RemixIconData(0xF0A9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData safe_fill = RemixIconData(0xF0AA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData safe_line = RemixIconData(0xF0AB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sailboat_fill = RemixIconData(0xF0AC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sailboat_line = RemixIconData(0xF0AD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData save_2_fill = RemixIconData(0xF0AE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData save_2_line = RemixIconData(0xF0AF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData save_3_fill = RemixIconData(0xF0B0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData save_3_line = RemixIconData(0xF0B1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData save_fill = RemixIconData(0xF0B2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData save_line = RemixIconData(0xF0B3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scales_2_fill = RemixIconData(0xF0B4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scales_2_line = RemixIconData(0xF0B5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scales_3_fill = RemixIconData(0xF0B6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scales_3_line = RemixIconData(0xF0B7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scales_fill = RemixIconData(0xF0B8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scales_line = RemixIconData(0xF0B9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scan_2_fill = RemixIconData(0xF0BA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scan_2_line = RemixIconData(0xF0BB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scan_fill = RemixIconData(0xF0BC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scan_line = RemixIconData(0xF0BD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scissors_2_fill = RemixIconData(0xF0BE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scissors_2_line = RemixIconData(0xF0BF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scissors_cut_fill = RemixIconData(0xF0C0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scissors_cut_line = RemixIconData(0xF0C1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scissors_fill = RemixIconData(0xF0C2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData scissors_line = RemixIconData(0xF0C3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData screenshot_2_fill = RemixIconData(0xF0C4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData screenshot_2_line = RemixIconData(0xF0C5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData screenshot_fill = RemixIconData(0xF0C6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData screenshot_line = RemixIconData(0xF0C7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sd_card_fill = RemixIconData(0xF0C8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sd_card_line = RemixIconData(0xF0C9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sd_card_mini_fill = RemixIconData(0xF0CA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sd_card_mini_line = RemixIconData(0xF0CB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData search_2_fill = RemixIconData(0xF0CC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData search_2_line = RemixIconData(0xF0CD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData search_eye_fill = RemixIconData(0xF0CE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData search_eye_line = RemixIconData(0xF0CF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData search_fill = RemixIconData(0xF0D0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData search_line = RemixIconData(0xF0D1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData secure_payment_fill = RemixIconData(0xF0D2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData secure_payment_line = RemixIconData(0xF0D3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData seedling_fill = RemixIconData(0xF0D4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData seedling_line = RemixIconData(0xF0D5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData send_backward = RemixIconData(0xF0D6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData send_plane_2_fill = RemixIconData(0xF0D7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData send_plane_2_line = RemixIconData(0xF0D8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData send_plane_fill = RemixIconData(0xF0D9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData send_plane_line = RemixIconData(0xF0DA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData send_to_back = RemixIconData(0xF0DB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sensor_fill = RemixIconData(0xF0DC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sensor_line = RemixIconData(0xF0DD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData separator = RemixIconData(0xF0DE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData server_fill = RemixIconData(0xF0DF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData server_line = RemixIconData(0xF0E0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData service_fill = RemixIconData(0xF0E1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData service_line = RemixIconData(0xF0E2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_2_fill = RemixIconData(0xF0E3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_2_line = RemixIconData(0xF0E4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_3_fill = RemixIconData(0xF0E5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_3_line = RemixIconData(0xF0E6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_4_fill = RemixIconData(0xF0E7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_4_line = RemixIconData(0xF0E8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_5_fill = RemixIconData(0xF0E9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_5_line = RemixIconData(0xF0EA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_6_fill = RemixIconData(0xF0EB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_6_line = RemixIconData(0xF0EC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_fill = RemixIconData(0xF0ED);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData settings_line = RemixIconData(0xF0EE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shape_2_fill = RemixIconData(0xF0EF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shape_2_line = RemixIconData(0xF0F0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shape_fill = RemixIconData(0xF0F1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shape_line = RemixIconData(0xF0F2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_box_fill = RemixIconData(0xF0F3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_box_line = RemixIconData(0xF0F4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_circle_fill = RemixIconData(0xF0F5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_circle_line = RemixIconData(0xF0F6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_fill = RemixIconData(0xF0F7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_forward_2_fill = RemixIconData(0xF0F8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_forward_2_line = RemixIconData(0xF0F9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_forward_box_fill = RemixIconData(0xF0FA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_forward_box_line = RemixIconData(0xF0FB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_forward_fill = RemixIconData(0xF0FC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_forward_line = RemixIconData(0xF0FD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData share_line = RemixIconData(0xF0FE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_check_fill = RemixIconData(0xF0FF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_check_line = RemixIconData(0xF100);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_cross_fill = RemixIconData(0xF101);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_cross_line = RemixIconData(0xF102);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_fill = RemixIconData(0xF103);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_flash_fill = RemixIconData(0xF104);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_flash_line = RemixIconData(0xF105);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_keyhole_fill = RemixIconData(0xF106);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_keyhole_line = RemixIconData(0xF107);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_line = RemixIconData(0xF108);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_star_fill = RemixIconData(0xF109);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_star_line = RemixIconData(0xF10A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_user_fill = RemixIconData(0xF10B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shield_user_line = RemixIconData(0xF10C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ship_2_fill = RemixIconData(0xF10D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ship_2_line = RemixIconData(0xF10E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ship_fill = RemixIconData(0xF10F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ship_line = RemixIconData(0xF110);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shirt_fill = RemixIconData(0xF111);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shirt_line = RemixIconData(0xF112);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_bag_2_fill = RemixIconData(0xF113);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_bag_2_line = RemixIconData(0xF114);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_bag_3_fill = RemixIconData(0xF115);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_bag_3_line = RemixIconData(0xF116);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_bag_fill = RemixIconData(0xF117);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_bag_line = RemixIconData(0xF118);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_basket_2_fill = RemixIconData(0xF119);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_basket_2_line = RemixIconData(0xF11A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_basket_fill = RemixIconData(0xF11B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_basket_line = RemixIconData(0xF11C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_cart_2_fill = RemixIconData(0xF11D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_cart_2_line = RemixIconData(0xF11E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_cart_fill = RemixIconData(0xF11F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shopping_cart_line = RemixIconData(0xF120);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData showers_fill = RemixIconData(0xF121);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData showers_line = RemixIconData(0xF122);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shuffle_fill = RemixIconData(0xF123);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shuffle_line = RemixIconData(0xF124);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shut_down_fill = RemixIconData(0xF125);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shut_down_line = RemixIconData(0xF126);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData side_bar_fill = RemixIconData(0xF127);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData side_bar_line = RemixIconData(0xF128);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_tower_fill = RemixIconData(0xF129);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_tower_line = RemixIconData(0xF12A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_1_fill = RemixIconData(0xF12B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_1_line = RemixIconData(0xF12C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_2_fill = RemixIconData(0xF12D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_2_line = RemixIconData(0xF12E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_3_fill = RemixIconData(0xF12F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_3_line = RemixIconData(0xF130);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_error_fill = RemixIconData(0xF131);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_error_line = RemixIconData(0xF132);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_fill = RemixIconData(0xF133);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_line = RemixIconData(0xF134);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_off_fill = RemixIconData(0xF135);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData signal_wifi_off_line = RemixIconData(0xF136);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sim_card_2_fill = RemixIconData(0xF137);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sim_card_2_line = RemixIconData(0xF138);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sim_card_fill = RemixIconData(0xF139);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sim_card_line = RemixIconData(0xF13A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData single_quotes_l = RemixIconData(0xF13B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData single_quotes_r = RemixIconData(0xF13C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sip_fill = RemixIconData(0xF13D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sip_line = RemixIconData(0xF13E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_back_fill = RemixIconData(0xF13F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_back_line = RemixIconData(0xF140);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_back_mini_fill = RemixIconData(0xF141);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_back_mini_line = RemixIconData(0xF142);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_forward_fill = RemixIconData(0xF143);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_forward_line = RemixIconData(0xF144);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_forward_mini_fill = RemixIconData(0xF145);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_forward_mini_line = RemixIconData(0xF146);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skull_2_fill = RemixIconData(0xF147);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skull_2_line = RemixIconData(0xF148);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skull_fill = RemixIconData(0xF149);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skull_line = RemixIconData(0xF14A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skype_fill = RemixIconData(0xF14B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skype_line = RemixIconData(0xF14C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slack_fill = RemixIconData(0xF14D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slack_line = RemixIconData(0xF14E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slice_fill = RemixIconData(0xF14F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slice_line = RemixIconData(0xF150);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slideshow_2_fill = RemixIconData(0xF151);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slideshow_2_line = RemixIconData(0xF152);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slideshow_3_fill = RemixIconData(0xF153);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slideshow_3_line = RemixIconData(0xF154);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slideshow_4_fill = RemixIconData(0xF155);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slideshow_4_line = RemixIconData(0xF156);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slideshow_fill = RemixIconData(0xF157);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slideshow_line = RemixIconData(0xF158);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData smartphone_fill = RemixIconData(0xF159);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData smartphone_line = RemixIconData(0xF15A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData snapchat_fill = RemixIconData(0xF15B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData snapchat_line = RemixIconData(0xF15C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData snowy_fill = RemixIconData(0xF15D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData snowy_line = RemixIconData(0xF15E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sort_asc = RemixIconData(0xF15F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sort_desc = RemixIconData(0xF160);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sound_module_fill = RemixIconData(0xF161);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sound_module_line = RemixIconData(0xF162);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData soundcloud_fill = RemixIconData(0xF163);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData soundcloud_line = RemixIconData(0xF164);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData space_ship_fill = RemixIconData(0xF165);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData space_ship_line = RemixIconData(0xF166);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData space = RemixIconData(0xF167);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spam_2_fill = RemixIconData(0xF168);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spam_2_line = RemixIconData(0xF169);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spam_3_fill = RemixIconData(0xF16A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spam_3_line = RemixIconData(0xF16B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spam_fill = RemixIconData(0xF16C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spam_line = RemixIconData(0xF16D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speaker_2_fill = RemixIconData(0xF16E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speaker_2_line = RemixIconData(0xF16F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speaker_3_fill = RemixIconData(0xF170);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speaker_3_line = RemixIconData(0xF171);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speaker_fill = RemixIconData(0xF172);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speaker_line = RemixIconData(0xF173);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spectrum_fill = RemixIconData(0xF174);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spectrum_line = RemixIconData(0xF175);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speed_fill = RemixIconData(0xF176);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speed_line = RemixIconData(0xF177);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speed_mini_fill = RemixIconData(0xF178);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speed_mini_line = RemixIconData(0xF179);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData split_cells_horizontal = RemixIconData(0xF17A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData split_cells_vertical = RemixIconData(0xF17B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spotify_fill = RemixIconData(0xF17C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spotify_line = RemixIconData(0xF17D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spy_fill = RemixIconData(0xF17E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData spy_line = RemixIconData(0xF17F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stack_fill = RemixIconData(0xF180);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stack_line = RemixIconData(0xF181);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stack_overflow_fill = RemixIconData(0xF182);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stack_overflow_line = RemixIconData(0xF183);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stackshare_fill = RemixIconData(0xF184);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stackshare_line = RemixIconData(0xF185);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData star_fill = RemixIconData(0xF186);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData star_half_fill = RemixIconData(0xF187);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData star_half_line = RemixIconData(0xF188);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData star_half_s_fill = RemixIconData(0xF189);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData star_half_s_line = RemixIconData(0xF18A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData star_line = RemixIconData(0xF18B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData star_s_fill = RemixIconData(0xF18C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData star_s_line = RemixIconData(0xF18D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData star_smile_fill = RemixIconData(0xF18E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData star_smile_line = RemixIconData(0xF18F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData steam_fill = RemixIconData(0xF190);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData steam_line = RemixIconData(0xF191);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData steering_2_fill = RemixIconData(0xF192);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData steering_2_line = RemixIconData(0xF193);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData steering_fill = RemixIconData(0xF194);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData steering_line = RemixIconData(0xF195);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stethoscope_fill = RemixIconData(0xF196);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stethoscope_line = RemixIconData(0xF197);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sticky_note_2_fill = RemixIconData(0xF198);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sticky_note_2_line = RemixIconData(0xF199);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sticky_note_fill = RemixIconData(0xF19A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sticky_note_line = RemixIconData(0xF19B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stock_fill = RemixIconData(0xF19C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stock_line = RemixIconData(0xF19D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stop_circle_fill = RemixIconData(0xF19E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stop_circle_line = RemixIconData(0xF19F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stop_fill = RemixIconData(0xF1A0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stop_line = RemixIconData(0xF1A1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stop_mini_fill = RemixIconData(0xF1A2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData stop_mini_line = RemixIconData(0xF1A3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData store_2_fill = RemixIconData(0xF1A4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData store_2_line = RemixIconData(0xF1A5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData store_3_fill = RemixIconData(0xF1A6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData store_3_line = RemixIconData(0xF1A7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData store_fill = RemixIconData(0xF1A8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData store_line = RemixIconData(0xF1A9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData strikethrough_2 = RemixIconData(0xF1AA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData strikethrough = RemixIconData(0xF1AB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData subscript_2 = RemixIconData(0xF1AC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData subscript = RemixIconData(0xF1AD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData subtract_fill = RemixIconData(0xF1AE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData subtract_line = RemixIconData(0xF1AF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData subway_fill = RemixIconData(0xF1B0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData subway_line = RemixIconData(0xF1B1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData subway_wifi_fill = RemixIconData(0xF1B2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData subway_wifi_line = RemixIconData(0xF1B3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData suitcase_2_fill = RemixIconData(0xF1B4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData suitcase_2_line = RemixIconData(0xF1B5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData suitcase_3_fill = RemixIconData(0xF1B6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData suitcase_3_line = RemixIconData(0xF1B7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData suitcase_fill = RemixIconData(0xF1B8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData suitcase_line = RemixIconData(0xF1B9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sun_cloudy_fill = RemixIconData(0xF1BA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sun_cloudy_line = RemixIconData(0xF1BB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sun_fill = RemixIconData(0xF1BC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sun_foggy_fill = RemixIconData(0xF1BD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sun_foggy_line = RemixIconData(0xF1BE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sun_line = RemixIconData(0xF1BF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData superscript_2 = RemixIconData(0xF1C0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData superscript = RemixIconData(0xF1C1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData surgical_mask_fill = RemixIconData(0xF1C2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData surgical_mask_line = RemixIconData(0xF1C3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData surround_sound_fill = RemixIconData(0xF1C4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData surround_sound_line = RemixIconData(0xF1C5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData survey_fill = RemixIconData(0xF1C6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData survey_line = RemixIconData(0xF1C7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData swap_box_fill = RemixIconData(0xF1C8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData swap_box_line = RemixIconData(0xF1C9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData swap_fill = RemixIconData(0xF1CA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData swap_line = RemixIconData(0xF1CB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData switch_fill = RemixIconData(0xF1CC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData switch_line = RemixIconData(0xF1CD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sword_fill = RemixIconData(0xF1CE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sword_line = RemixIconData(0xF1CF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData syringe_fill = RemixIconData(0xF1D0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData syringe_line = RemixIconData(0xF1D1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData t_box_fill = RemixIconData(0xF1D2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData t_box_line = RemixIconData(0xF1D3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData t_shirt_2_fill = RemixIconData(0xF1D4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData t_shirt_2_line = RemixIconData(0xF1D5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData t_shirt_air_fill = RemixIconData(0xF1D6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData t_shirt_air_line = RemixIconData(0xF1D7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData t_shirt_fill = RemixIconData(0xF1D8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData t_shirt_line = RemixIconData(0xF1D9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData table_2 = RemixIconData(0xF1DA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData table_alt_fill = RemixIconData(0xF1DB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData table_alt_line = RemixIconData(0xF1DC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData table_fill = RemixIconData(0xF1DD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData table_line = RemixIconData(0xF1DE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tablet_fill = RemixIconData(0xF1DF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tablet_line = RemixIconData(0xF1E0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData takeaway_fill = RemixIconData(0xF1E1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData takeaway_line = RemixIconData(0xF1E2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData taobao_fill = RemixIconData(0xF1E3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData taobao_line = RemixIconData(0xF1E4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tape_fill = RemixIconData(0xF1E5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tape_line = RemixIconData(0xF1E6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData task_fill = RemixIconData(0xF1E7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData task_line = RemixIconData(0xF1E8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData taxi_fill = RemixIconData(0xF1E9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData taxi_line = RemixIconData(0xF1EA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData taxi_wifi_fill = RemixIconData(0xF1EB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData taxi_wifi_line = RemixIconData(0xF1EC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData team_fill = RemixIconData(0xF1ED);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData team_line = RemixIconData(0xF1EE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData telegram_fill = RemixIconData(0xF1EF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData telegram_line = RemixIconData(0xF1F0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData temp_cold_fill = RemixIconData(0xF1F1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData temp_cold_line = RemixIconData(0xF1F2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData temp_hot_fill = RemixIconData(0xF1F3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData temp_hot_line = RemixIconData(0xF1F4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData terminal_box_fill = RemixIconData(0xF1F5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData terminal_box_line = RemixIconData(0xF1F6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData terminal_fill = RemixIconData(0xF1F7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData terminal_line = RemixIconData(0xF1F8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData terminal_window_fill = RemixIconData(0xF1F9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData terminal_window_line = RemixIconData(0xF1FA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData test_tube_fill = RemixIconData(0xF1FB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData test_tube_line = RemixIconData(0xF1FC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData text_direction_l = RemixIconData(0xF1FD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData text_direction_r = RemixIconData(0xF1FE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData text_spacing = RemixIconData(0xF1FF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData text_wrap = RemixIconData(0xF200);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData text = RemixIconData(0xF201);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData thermometer_fill = RemixIconData(0xF202);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData thermometer_line = RemixIconData(0xF203);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData thumb_down_fill = RemixIconData(0xF204);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData thumb_down_line = RemixIconData(0xF205);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData thumb_up_fill = RemixIconData(0xF206);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData thumb_up_line = RemixIconData(0xF207);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData thunderstorms_fill = RemixIconData(0xF208);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData thunderstorms_line = RemixIconData(0xF209);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ticket_2_fill = RemixIconData(0xF20A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ticket_2_line = RemixIconData(0xF20B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ticket_fill = RemixIconData(0xF20C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ticket_line = RemixIconData(0xF20D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData time_fill = RemixIconData(0xF20E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData time_line = RemixIconData(0xF20F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData timer_2_fill = RemixIconData(0xF210);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData timer_2_line = RemixIconData(0xF211);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData timer_fill = RemixIconData(0xF212);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData timer_flash_fill = RemixIconData(0xF213);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData timer_flash_line = RemixIconData(0xF214);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData timer_line = RemixIconData(0xF215);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData todo_fill = RemixIconData(0xF216);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData todo_line = RemixIconData(0xF217);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData toggle_fill = RemixIconData(0xF218);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData toggle_line = RemixIconData(0xF219);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tools_fill = RemixIconData(0xF21A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tools_line = RemixIconData(0xF21B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tornado_fill = RemixIconData(0xF21C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tornado_line = RemixIconData(0xF21D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData trademark_fill = RemixIconData(0xF21E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData trademark_line = RemixIconData(0xF21F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData traffic_light_fill = RemixIconData(0xF220);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData traffic_light_line = RemixIconData(0xF221);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData train_fill = RemixIconData(0xF222);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData train_line = RemixIconData(0xF223);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData train_wifi_fill = RemixIconData(0xF224);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData train_wifi_line = RemixIconData(0xF225);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData translate_2 = RemixIconData(0xF226);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData translate = RemixIconData(0xF227);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData travesti_fill = RemixIconData(0xF228);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData travesti_line = RemixIconData(0xF229);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData treasure_map_fill = RemixIconData(0xF22A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData treasure_map_line = RemixIconData(0xF22B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData trello_fill = RemixIconData(0xF22C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData trello_line = RemixIconData(0xF22D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData trophy_fill = RemixIconData(0xF22E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData trophy_line = RemixIconData(0xF22F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData truck_fill = RemixIconData(0xF230);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData truck_line = RemixIconData(0xF231);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tumblr_fill = RemixIconData(0xF232);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tumblr_line = RemixIconData(0xF233);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tv_2_fill = RemixIconData(0xF234);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tv_2_line = RemixIconData(0xF235);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tv_fill = RemixIconData(0xF236);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tv_line = RemixIconData(0xF237);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData twitch_fill = RemixIconData(0xF238);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData twitch_line = RemixIconData(0xF239);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData twitter_fill = RemixIconData(0xF23A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData twitter_line = RemixIconData(0xF23B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData typhoon_fill = RemixIconData(0xF23C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData typhoon_line = RemixIconData(0xF23D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData u_disk_fill = RemixIconData(0xF23E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData u_disk_line = RemixIconData(0xF23F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ubuntu_fill = RemixIconData(0xF240);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ubuntu_line = RemixIconData(0xF241);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData umbrella_fill = RemixIconData(0xF242);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData umbrella_line = RemixIconData(0xF243);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData underline = RemixIconData(0xF244);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData uninstall_fill = RemixIconData(0xF245);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData uninstall_line = RemixIconData(0xF246);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData unsplash_fill = RemixIconData(0xF247);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData unsplash_line = RemixIconData(0xF248);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData upload_2_fill = RemixIconData(0xF249);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData upload_2_line = RemixIconData(0xF24A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData upload_cloud_2_fill = RemixIconData(0xF24B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData upload_cloud_2_line = RemixIconData(0xF24C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData upload_cloud_fill = RemixIconData(0xF24D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData upload_cloud_line = RemixIconData(0xF24E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData upload_fill = RemixIconData(0xF24F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData upload_line = RemixIconData(0xF250);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData usb_fill = RemixIconData(0xF251);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData usb_line = RemixIconData(0xF252);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_2_fill = RemixIconData(0xF253);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_2_line = RemixIconData(0xF254);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_3_fill = RemixIconData(0xF255);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_3_line = RemixIconData(0xF256);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_4_fill = RemixIconData(0xF257);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_4_line = RemixIconData(0xF258);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_5_fill = RemixIconData(0xF259);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_5_line = RemixIconData(0xF25A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_6_fill = RemixIconData(0xF25B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_6_line = RemixIconData(0xF25C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_add_fill = RemixIconData(0xF25D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_add_line = RemixIconData(0xF25E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_fill = RemixIconData(0xF25F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_follow_fill = RemixIconData(0xF260);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_follow_line = RemixIconData(0xF261);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_heart_fill = RemixIconData(0xF262);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_heart_line = RemixIconData(0xF263);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_line = RemixIconData(0xF264);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_location_fill = RemixIconData(0xF265);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_location_line = RemixIconData(0xF266);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_received_2_fill = RemixIconData(0xF267);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_received_2_line = RemixIconData(0xF268);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_received_fill = RemixIconData(0xF269);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_received_line = RemixIconData(0xF26A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_search_fill = RemixIconData(0xF26B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_search_line = RemixIconData(0xF26C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_settings_fill = RemixIconData(0xF26D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_settings_line = RemixIconData(0xF26E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_shared_2_fill = RemixIconData(0xF26F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_shared_2_line = RemixIconData(0xF270);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_shared_fill = RemixIconData(0xF271);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_shared_line = RemixIconData(0xF272);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_smile_fill = RemixIconData(0xF273);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_smile_line = RemixIconData(0xF274);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_star_fill = RemixIconData(0xF275);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_star_line = RemixIconData(0xF276);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_unfollow_fill = RemixIconData(0xF277);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_unfollow_line = RemixIconData(0xF278);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_voice_fill = RemixIconData(0xF279);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_voice_line = RemixIconData(0xF27A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData video_add_fill = RemixIconData(0xF27B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData video_add_line = RemixIconData(0xF27C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData video_chat_fill = RemixIconData(0xF27D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData video_chat_line = RemixIconData(0xF27E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData video_download_fill = RemixIconData(0xF27F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData video_download_line = RemixIconData(0xF280);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData video_fill = RemixIconData(0xF281);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData video_line = RemixIconData(0xF282);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData video_upload_fill = RemixIconData(0xF283);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData video_upload_line = RemixIconData(0xF284);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vidicon_2_fill = RemixIconData(0xF285);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vidicon_2_line = RemixIconData(0xF286);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vidicon_fill = RemixIconData(0xF287);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vidicon_line = RemixIconData(0xF288);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vimeo_fill = RemixIconData(0xF289);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vimeo_line = RemixIconData(0xF28A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vip_crown_2_fill = RemixIconData(0xF28B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vip_crown_2_line = RemixIconData(0xF28C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vip_crown_fill = RemixIconData(0xF28D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vip_crown_line = RemixIconData(0xF28E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vip_diamond_fill = RemixIconData(0xF28F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vip_diamond_line = RemixIconData(0xF290);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vip_fill = RemixIconData(0xF291);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vip_line = RemixIconData(0xF292);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData virus_fill = RemixIconData(0xF293);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData virus_line = RemixIconData(0xF294);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData visa_fill = RemixIconData(0xF295);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData visa_line = RemixIconData(0xF296);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData voice_recognition_fill = RemixIconData(0xF297);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData voice_recognition_line = RemixIconData(0xF298);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData voiceprint_fill = RemixIconData(0xF299);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData voiceprint_line = RemixIconData(0xF29A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData volume_down_fill = RemixIconData(0xF29B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData volume_down_line = RemixIconData(0xF29C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData volume_mute_fill = RemixIconData(0xF29D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData volume_mute_line = RemixIconData(0xF29E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData volume_off_vibrate_fill = RemixIconData(0xF29F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData volume_off_vibrate_line = RemixIconData(0xF2A0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData volume_up_fill = RemixIconData(0xF2A1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData volume_up_line = RemixIconData(0xF2A2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData volume_vibrate_fill = RemixIconData(0xF2A3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData volume_vibrate_line = RemixIconData(0xF2A4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vuejs_fill = RemixIconData(0xF2A5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData vuejs_line = RemixIconData(0xF2A6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData walk_fill = RemixIconData(0xF2A7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData walk_line = RemixIconData(0xF2A8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wallet_2_fill = RemixIconData(0xF2A9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wallet_2_line = RemixIconData(0xF2AA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wallet_3_fill = RemixIconData(0xF2AB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wallet_3_line = RemixIconData(0xF2AC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wallet_fill = RemixIconData(0xF2AD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wallet_line = RemixIconData(0xF2AE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData water_flash_fill = RemixIconData(0xF2AF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData water_flash_line = RemixIconData(0xF2B0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData webcam_fill = RemixIconData(0xF2B1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData webcam_line = RemixIconData(0xF2B2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wechat_2_fill = RemixIconData(0xF2B3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wechat_2_line = RemixIconData(0xF2B4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wechat_fill = RemixIconData(0xF2B5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wechat_line = RemixIconData(0xF2B6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wechat_pay_fill = RemixIconData(0xF2B7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wechat_pay_line = RemixIconData(0xF2B8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData weibo_fill = RemixIconData(0xF2B9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData weibo_line = RemixIconData(0xF2BA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData whatsapp_fill = RemixIconData(0xF2BB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData whatsapp_line = RemixIconData(0xF2BC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wheelchair_fill = RemixIconData(0xF2BD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wheelchair_line = RemixIconData(0xF2BE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wifi_fill = RemixIconData(0xF2BF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wifi_line = RemixIconData(0xF2C0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wifi_off_fill = RemixIconData(0xF2C1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wifi_off_line = RemixIconData(0xF2C2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData window_2_fill = RemixIconData(0xF2C3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData window_2_line = RemixIconData(0xF2C4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData window_fill = RemixIconData(0xF2C5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData window_line = RemixIconData(0xF2C6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData windows_fill = RemixIconData(0xF2C7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData windows_line = RemixIconData(0xF2C8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData windy_fill = RemixIconData(0xF2C9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData windy_line = RemixIconData(0xF2CA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wireless_charging_fill = RemixIconData(0xF2CB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wireless_charging_line = RemixIconData(0xF2CC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData women_fill = RemixIconData(0xF2CD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData women_line = RemixIconData(0xF2CE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wubi_input = RemixIconData(0xF2CF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData xbox_fill = RemixIconData(0xF2D0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData xbox_line = RemixIconData(0xF2D1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData xing_fill = RemixIconData(0xF2D2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData xing_line = RemixIconData(0xF2D3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData youtube_fill = RemixIconData(0xF2D4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData youtube_line = RemixIconData(0xF2D5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData zcool_fill = RemixIconData(0xF2D6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData zcool_line = RemixIconData(0xF2D7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData zhihu_fill = RemixIconData(0xF2D8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData zhihu_line = RemixIconData(0xF2D9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData zoom_in_fill = RemixIconData(0xF2DA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData zoom_in_line = RemixIconData(0xF2DB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData zoom_out_fill = RemixIconData(0xF2DC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData zoom_out_line = RemixIconData(0xF2DD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData zzz_fill = RemixIconData(0xF2DE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData zzz_line = RemixIconData(0xF2DF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_down_double_fill = RemixIconData(0xF2E0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_down_double_line = RemixIconData(0xF2E1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_double_fill = RemixIconData(0xF2E2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_left_double_line = RemixIconData(0xF2E3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_double_fill = RemixIconData(0xF2E4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_right_double_line = RemixIconData(0xF2E5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_turn_back_fill = RemixIconData(0xF2E6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_turn_back_line = RemixIconData(0xF2E7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_turn_forward_fill = RemixIconData(0xF2E8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_turn_forward_line = RemixIconData(0xF2E9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_up_double_fill = RemixIconData(0xF2EA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData arrow_up_double_line = RemixIconData(0xF2EB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bard_fill = RemixIconData(0xF2EC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bard_line = RemixIconData(0xF2ED);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bootstrap_fill = RemixIconData(0xF2EE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData bootstrap_line = RemixIconData(0xF2EF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData box_1_fill = RemixIconData(0xF2F0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData box_1_line = RemixIconData(0xF2F1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData box_2_fill = RemixIconData(0xF2F2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData box_2_line = RemixIconData(0xF2F3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData box_3_fill = RemixIconData(0xF2F4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData box_3_line = RemixIconData(0xF2F5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brain_fill = RemixIconData(0xF2F6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData brain_line = RemixIconData(0xF2F7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData candle_fill = RemixIconData(0xF2F8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData candle_line = RemixIconData(0xF2F9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cash_fill = RemixIconData(0xF2FA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cash_line = RemixIconData(0xF2FB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contract_left_fill = RemixIconData(0xF2FC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contract_left_line = RemixIconData(0xF2FD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contract_left_right_fill = RemixIconData(0xF2FE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contract_left_right_line = RemixIconData(0xF2FF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contract_right_fill = RemixIconData(0xF300);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contract_right_line = RemixIconData(0xF301);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contract_up_down_fill = RemixIconData(0xF302);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData contract_up_down_line = RemixIconData(0xF303);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData copilot_fill = RemixIconData(0xF304);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData copilot_line = RemixIconData(0xF305);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_down_left_fill = RemixIconData(0xF306);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_down_left_line = RemixIconData(0xF307);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_down_right_fill = RemixIconData(0xF308);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_down_right_line = RemixIconData(0xF309);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_left_down_fill = RemixIconData(0xF30A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_left_down_line = RemixIconData(0xF30B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_left_up_fill = RemixIconData(0xF30C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_left_up_line = RemixIconData(0xF30D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_right_down_fill = RemixIconData(0xF30E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_right_down_line = RemixIconData(0xF30F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_right_up_fill = RemixIconData(0xF310);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_right_up_line = RemixIconData(0xF311);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_up_left_double_fill = RemixIconData(0xF312);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_up_left_double_line = RemixIconData(0xF313);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_up_left_fill = RemixIconData(0xF314);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_up_left_line = RemixIconData(0xF315);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_up_right_double_fill = RemixIconData(0xF316);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_up_right_double_line = RemixIconData(0xF317);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_up_right_fill = RemixIconData(0xF318);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData corner_up_right_line = RemixIconData(0xF319);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cross_fill = RemixIconData(0xF31A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData cross_line = RemixIconData(0xF31B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edge_new_fill = RemixIconData(0xF31C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData edge_new_line = RemixIconData(0xF31D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData equal_fill = RemixIconData(0xF31E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData equal_line = RemixIconData(0xF31F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData expand_left_fill = RemixIconData(0xF320);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData expand_left_line = RemixIconData(0xF321);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData expand_left_right_fill = RemixIconData(0xF322);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData expand_left_right_line = RemixIconData(0xF323);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData expand_right_fill = RemixIconData(0xF324);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData expand_right_line = RemixIconData(0xF325);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData expand_up_down_fill = RemixIconData(0xF326);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData expand_up_down_line = RemixIconData(0xF327);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flickr_fill = RemixIconData(0xF328);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData flickr_line = RemixIconData(0xF329);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forward_10_fill = RemixIconData(0xF32A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forward_10_line = RemixIconData(0xF32B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forward_15_fill = RemixIconData(0xF32C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forward_15_line = RemixIconData(0xF32D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forward_30_fill = RemixIconData(0xF32E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forward_30_line = RemixIconData(0xF32F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forward_5_fill = RemixIconData(0xF330);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData forward_5_line = RemixIconData(0xF331);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData graduation_cap_fill = RemixIconData(0xF332);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData graduation_cap_line = RemixIconData(0xF333);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_office_fill = RemixIconData(0xF334);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData home_office_line = RemixIconData(0xF335);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hourglass_2_fill = RemixIconData(0xF336);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hourglass_2_line = RemixIconData(0xF337);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hourglass_fill = RemixIconData(0xF338);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hourglass_line = RemixIconData(0xF339);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData javascript_fill = RemixIconData(0xF33A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData javascript_line = RemixIconData(0xF33B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loop_left_fill = RemixIconData(0xF33C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loop_left_line = RemixIconData(0xF33D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loop_right_fill = RemixIconData(0xF33E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData loop_right_line = RemixIconData(0xF33F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData memories_fill = RemixIconData(0xF340);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData memories_line = RemixIconData(0xF341);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData meta_fill = RemixIconData(0xF342);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData meta_line = RemixIconData(0xF343);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData microsoft_loop_fill = RemixIconData(0xF344);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData microsoft_loop_line = RemixIconData(0xF345);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData nft_fill = RemixIconData(0xF346);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData nft_line = RemixIconData(0xF347);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notion_fill = RemixIconData(0xF348);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData notion_line = RemixIconData(0xF349);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData openai_fill = RemixIconData(0xF34A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData openai_line = RemixIconData(0xF34B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData overline = RemixIconData(0xF34C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData p2p_fill = RemixIconData(0xF34D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData p2p_line = RemixIconData(0xF34E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData presentation_fill = RemixIconData(0xF34F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData presentation_line = RemixIconData(0xF350);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData replay_10_fill = RemixIconData(0xF351);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData replay_10_line = RemixIconData(0xF352);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData replay_15_fill = RemixIconData(0xF353);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData replay_15_line = RemixIconData(0xF354);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData replay_30_fill = RemixIconData(0xF355);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData replay_30_line = RemixIconData(0xF356);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData replay_5_fill = RemixIconData(0xF357);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData replay_5_line = RemixIconData(0xF358);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData school_fill = RemixIconData(0xF359);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData school_line = RemixIconData(0xF35A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shining_2_fill = RemixIconData(0xF35B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shining_2_line = RemixIconData(0xF35C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shining_fill = RemixIconData(0xF35D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shining_line = RemixIconData(0xF35E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sketching = RemixIconData(0xF35F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_down_fill = RemixIconData(0xF360);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_down_line = RemixIconData(0xF361);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_left_fill = RemixIconData(0xF362);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_left_line = RemixIconData(0xF363);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_right_fill = RemixIconData(0xF364);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_right_line = RemixIconData(0xF365);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_up_fill = RemixIconData(0xF366);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData skip_up_line = RemixIconData(0xF367);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slow_down_fill = RemixIconData(0xF368);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slow_down_line = RemixIconData(0xF369);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sparkling_2_fill = RemixIconData(0xF36A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sparkling_2_line = RemixIconData(0xF36B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sparkling_fill = RemixIconData(0xF36C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData sparkling_line = RemixIconData(0xF36D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speak_fill = RemixIconData(0xF36E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speak_line = RemixIconData(0xF36F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speed_up_fill = RemixIconData(0xF370);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData speed_up_line = RemixIconData(0xF371);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tiktok_fill = RemixIconData(0xF372);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tiktok_line = RemixIconData(0xF373);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData token_swap_fill = RemixIconData(0xF374);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData token_swap_line = RemixIconData(0xF375);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData unpin_fill = RemixIconData(0xF376);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData unpin_line = RemixIconData(0xF377);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wechat_channels_fill = RemixIconData(0xF378);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wechat_channels_line = RemixIconData(0xF379);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wordpress_fill = RemixIconData(0xF37A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData wordpress_line = RemixIconData(0xF37B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData blender_fill = RemixIconData(0xF37C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData blender_line = RemixIconData(0xF37D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emoji_sticker_fill = RemixIconData(0xF37E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData emoji_sticker_line = RemixIconData(0xF37F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_close_pull_request_fill = RemixIconData(0xF380);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData git_close_pull_request_line = RemixIconData(0xF381);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData instance_fill = RemixIconData(0xF382);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData instance_line = RemixIconData(0xF383);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData megaphone_fill = RemixIconData(0xF384);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData megaphone_line = RemixIconData(0xF385);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pass_expired_fill = RemixIconData(0xF386);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pass_expired_line = RemixIconData(0xF387);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pass_pending_fill = RemixIconData(0xF388);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pass_pending_line = RemixIconData(0xF389);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pass_valid_fill = RemixIconData(0xF38A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pass_valid_line = RemixIconData(0xF38B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData ai_generate = RemixIconData(0xF38C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_close_fill = RemixIconData(0xF38D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData calendar_close_line = RemixIconData(0xF38E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData draggable = RemixIconData(0xF38F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData font_family = RemixIconData(0xF390);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData font_mono = RemixIconData(0xF391);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData font_sans_serif = RemixIconData(0xF392);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData font_sans = RemixIconData(0xF393);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hard_drive_3_fill = RemixIconData(0xF394);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hard_drive_3_line = RemixIconData(0xF395);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData kick_fill = RemixIconData(0xF396);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData kick_line = RemixIconData(0xF397);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData list_check_3 = RemixIconData(0xF398);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData list_indefinite = RemixIconData(0xF399);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData list_ordered_2 = RemixIconData(0xF39A);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData list_radio = RemixIconData(0xF39B);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData openbase_fill = RemixIconData(0xF39C);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData openbase_line = RemixIconData(0xF39D);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData planet_fill = RemixIconData(0xF39E);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData planet_line = RemixIconData(0xF39F);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData prohibited_fill = RemixIconData(0xF3A0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData prohibited_line = RemixIconData(0xF3A1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData quote_text = RemixIconData(0xF3A2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData seo_fill = RemixIconData(0xF3A3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData seo_line = RemixIconData(0xF3A4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slash_commands = RemixIconData(0xF3A5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData archive_2_fill = RemixIconData(0xF3A6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData archive_2_line = RemixIconData(0xF3A7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData inbox_2_fill = RemixIconData(0xF3A8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData inbox_2_line = RemixIconData(0xF3A9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shake_hands_fill = RemixIconData(0xF3AA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shake_hands_line = RemixIconData(0xF3AB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData supabase_fill = RemixIconData(0xF3AC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData supabase_line = RemixIconData(0xF3AD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData water_percent_fill = RemixIconData(0xF3AE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData water_percent_line = RemixIconData(0xF3AF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData yuque_fill = RemixIconData(0xF3B0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData yuque_line = RemixIconData(0xF3B1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData crosshair_2_fill = RemixIconData(0xF3B2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData crosshair_2_line = RemixIconData(0xF3B3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData crosshair_fill = RemixIconData(0xF3B4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData crosshair_line = RemixIconData(0xF3B5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_close_fill = RemixIconData(0xF3B6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_close_line = RemixIconData(0xF3B7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData infinity_fill = RemixIconData(0xF3B8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData infinity_line = RemixIconData(0xF3B9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rfid_fill = RemixIconData(0xF3BA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rfid_line = RemixIconData(0xF3BB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData slash_commands_2 = RemixIconData(0xF3BC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_forbid_fill = RemixIconData(0xF3BD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData user_forbid_line = RemixIconData(0xF3BE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData beer_fill = RemixIconData(0xF3BF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData beer_line = RemixIconData(0xF3C0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData circle_fill = RemixIconData(0xF3C1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData circle_line = RemixIconData(0xF3C2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData dropdown_list = RemixIconData(0xF3C3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_image_fill = RemixIconData(0xF3C4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_image_line = RemixIconData(0xF3C5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_pdf_2_fill = RemixIconData(0xF3C6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_pdf_2_line = RemixIconData(0xF3C7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_video_fill = RemixIconData(0xF3C8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_video_line = RemixIconData(0xF3C9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_image_fill = RemixIconData(0xF3CA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_image_line = RemixIconData(0xF3CB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_video_fill = RemixIconData(0xF3CC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData folder_video_line = RemixIconData(0xF3CD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hexagon_fill = RemixIconData(0xF3CE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData hexagon_line = RemixIconData(0xF3CF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_search_fill = RemixIconData(0xF3D0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData menu_search_line = RemixIconData(0xF3D1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData octagon_fill = RemixIconData(0xF3D2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData octagon_line = RemixIconData(0xF3D3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pentagon_fill = RemixIconData(0xF3D4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData pentagon_line = RemixIconData(0xF3D5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rectangle_fill = RemixIconData(0xF3D6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData rectangle_line = RemixIconData(0xF3D7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData robot_2_fill = RemixIconData(0xF3D8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData robot_2_line = RemixIconData(0xF3D9);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shapes_fill = RemixIconData(0xF3DA);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData shapes_line = RemixIconData(0xF3DB);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData square_fill = RemixIconData(0xF3DC);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData square_line = RemixIconData(0xF3DD);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tent_fill = RemixIconData(0xF3DE);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tent_line = RemixIconData(0xF3DF);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData threads_fill = RemixIconData(0xF3E0);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData threads_line = RemixIconData(0xF3E1);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tree_fill = RemixIconData(0xF3E2);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData tree_line = RemixIconData(0xF3E3);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData triangle_fill = RemixIconData(0xF3E4);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData triangle_line = RemixIconData(0xF3E5);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData twitter_x_fill = RemixIconData(0xF3E6);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData twitter_x_line = RemixIconData(0xF3E7);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData verified_badge_fill = RemixIconData(0xF3E8);
+
+  /// See [Remix Icon](https://remixicon.com/).
   static const IconData verified_badge_line = RemixIconData(0xF3E9);
   static const Map<String, int> _iconMap = {
     "i_24_hours_fill": 0xEA01,

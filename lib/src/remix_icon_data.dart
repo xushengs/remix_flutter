@@ -7,6 +7,7 @@ import "package:flutter/widgets.dart";
 /// final iconData = RemixIconData(0x0001);
 /// ```
 class RemixIconData extends IconData {
+  /// [RemixIconData] constructor.
   const RemixIconData(super.codePoint)
       : super(
           fontFamily: "RemixIcon",

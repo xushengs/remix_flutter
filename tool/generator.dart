@@ -42,6 +42,7 @@ void main(List<String> args) async {
   icons.forEach((String name, dynamic value) {
     final key = sanitizeKey(name);
     final unicode = _sanitizeUnicode(value['unicode']);
+    contents.add('/// See [Remix Icon](https://remixicon.com/).');
     contents.add('static const IconData $key = RemixIconData($unicode);');
     sanitizedIcons.add('"$key": $unicode,');
   });
