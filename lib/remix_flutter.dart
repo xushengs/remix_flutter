@@ -2,3 +2,4 @@
 library remix_flutter;
 
 export 'src/remix_icon.dart';
+export 'src/remix_icon_data.dart';
