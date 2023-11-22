@@ -5111,6 +5111,6 @@ class RemixIcon {
       print(
           'Warning in RemixIcon.getIcon: \n\t Icon not found: $name\n\t Please check if the icon name is correct.\n');
     }
-    return RemixIconData(0);
+    return const RemixIconData(0);
   }
 }
