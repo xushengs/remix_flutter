@@ -20,11 +20,11 @@ void main(List<String> args) async {
     '''
 /// Identifiers for the supported [Remix Icon](https://remixicon.com).
 ///
-/// Use with the [RemixIcon] class to show specific remix icons.
-/// Icons are identified by their name as listed below,
+/// To display specific Remix icons, use these identifiers with the RemixIcon class. 
+/// Icons are identified by their name,
 /// e.g. [RemixIcon.flutter_fill].
 ///
-/// If icon name is started with a number, use `i_` as prefix.
+/// If the icon name starts with a number, it should be prefixed with `i_`.
 ///
 /// Example:
 ///
