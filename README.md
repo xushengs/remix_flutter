@@ -1,5 +1,10 @@
 # flutter_remix_icon
+
+[![Coverage Status](https://coveralls.io/repos/github/xushengs/flutter_remix_icon/badge.svg?branch=main)](https://coveralls.io/github/xushengs/flutter_remix_icon?branch=main) [![Pub Version](https://img.shields.io/pub/v/flutter_remix_icon)](https://pub.dev/packages/flutter_remix_icon)
+
 Discover the full spectrum of Remix Icons, now conveniently packaged as Flutter Icons, offering you unparalleled access to an extensive repertoire of captivating visuals.
+
+Identifiers for the supported [Remix Icon](https://remixicon.com)
 
 ## Usage
 
