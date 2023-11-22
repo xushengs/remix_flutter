@@ -1,10 +1,9 @@
-library flutter_remix_icon;
-
+import "package:flutter/foundation.dart";
 import "package:flutter/widgets.dart";
 import "remix_icon_data.dart";
 import "utils.dart" show sanitizeKey;
 
-/// Identifiers for the supported [Remix Icon](https://remixicon.com/).
+/// Identifiers for the supported [Remix Icon](https://remixicon.com).
 ///
 /// Use with the [RemixIcon] class to show specific remix icons.
 /// Icons are identified by their name as listed below,
@@ -17,9 +16,6 @@ import "utils.dart" show sanitizeKey;
 /// ```dart
 ///  const Icon(RemixIcon.flutter_fill)
 /// ```
-///
-/// See also:
-///  * <https://remixicon.com/>.
 
 class RemixIcon {
   static const IconData i_24_hours_fill = RemixIconData(0xEA01);
@@ -5099,25 +5095,22 @@ class RemixIcon {
     "verified_badge_line": 0xF3E9,
   };
 
-  /// Get icon data by [name].
-  ///
-  /// If [silent] is true, return empty icon data if icon not found, otherwise throw error.
+  /// Get icon data by RemixIcon [name].
   ///
   /// Example:
   /// ```dart
-  /// IconData iconData = RemixIcon.getIconData('home-fill');
+  /// IconData iconData = RemixIcon.getIconData('flutter-fill');
   /// ```
-  static IconData getIconData(String name, {bool silent = false}) {
+  static IconData getIcon(String name) {
     name = sanitizeKey(name);
 
     if (RemixIcon._iconMap.keys.contains(name)) {
       return RemixIconData(RemixIcon._iconMap[name] as int);
     }
-
-    if (silent) {
-      return RemixIconData(0);
+    if (kDebugMode) {
+      print(
+          'Warning in RemixIcon.getIcon: \n\t Icon not found: $name\n\t Please check if the icon name is correct.\n');
     }
-
-    throw Exception('Icon $name not found.');
+    return RemixIconData(0);
   }
 }

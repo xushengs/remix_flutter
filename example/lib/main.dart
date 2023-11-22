@@ -88,9 +88,9 @@ class MyHomePage extends StatelessWidget {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Icon(RemixIcon.getIconData('flutter_fill')),
+            Icon(RemixIcon.getIcon('flutter_fill')),
             const Icon(RemixIcon.i_24_hours_line),
-            Icon(RemixIcon.getIconData('icon_does_not_exist', silent: true)),
+            Icon(RemixIcon.getIcon('icon_does_not_exist')),
           ],
         ),
       ), // This trailing comma makes auto-formatting nicer for build methods.

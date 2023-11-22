@@ -2,7 +2,7 @@
 
 import 'dart:convert';
 import 'dart:io';
-import 'package:flutter_remix_icon/utils.dart' show sanitizeKey;
+import 'package:flutter_remix_icon/src/utils.dart' show sanitizeKey;
 
 void main(List<String> args) async {
   Map<String, dynamic>? icons = await _getIconMap(args[0]);
@@ -13,12 +13,12 @@ void main(List<String> args) async {
   }
 
   List<String> contents = [
-    'library flutter_remix_icon;',
+    'import "package:flutter/foundation.dart";',
     'import "package:flutter/widgets.dart";',
     'import "remix_icon_data.dart";',
     'import "utils.dart" show sanitizeKey;',
     '''
-/// Identifiers for the supported [Remix Icon](https://remixicon.com/).
+/// Identifiers for the supported [Remix Icon](https://remixicon.com).
 ///
 /// Use with the [RemixIcon] class to show specific remix icons.
 /// Icons are identified by their name as listed below,
@@ -31,9 +31,6 @@ void main(List<String> args) async {
 /// ```dart
 ///  const Icon(RemixIcon.flutter_fill)
 /// ```
-///
-/// See also:
-///  * <https://remixicon.com/>.
     ''',
     'class RemixIcon {',
   ];
@@ -51,32 +48,28 @@ void main(List<String> args) async {
   contents.add(sanitizedIcons.join('\n'));
 
   contents.add('''
-  /// Get icon data by [name].
-  ///
-  /// If [silent] is true, return empty icon data if icon not found, otherwise throw error.
+  /// Get icon data by RemixIcon [name].
   ///
   /// Example:
   /// ```dart
-  /// IconData iconData = RemixIcon.getIconData('home-fill');
+  /// IconData iconData = RemixIcon.getIconData('flutter-fill');
   /// ```
-  static IconData getIconData(String name, {bool silent = false}) {
+  static IconData getIcon(String name) {
     name = sanitizeKey(name);
 
     if (RemixIcon._iconMap.keys.contains(name)) {
       return RemixIconData(RemixIcon._iconMap[name] as int);
     }
-
-    if (silent) {
-      return RemixIconData(0);
+    if (kDebugMode) {
+      print('Warning in RemixIcon.getIcon: \\n\\t Icon not found: \$name\\n\\t Please check if the icon name is correct.\\n');
     }
-
-    throw Exception('Icon \$name not found.');
+    return RemixIconData(0);
   }
   ''');
 
   contents.add('}');
 
-  await File('../lib/remix_icon.dart')
+  await File('../lib/src/remix_icon.dart')
       .writeAsString(contents.join('\n'))
       .then((value) => print('Done'))
       .onError((error, stackTrace) => print('write failed: $error'));
