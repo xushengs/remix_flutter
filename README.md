@@ -1,6 +1,6 @@
-# remix_icon
+# remix_flutter
 
-[![Coverage Status](https://coveralls.io/repos/github/xushengs/remix_icon/badge.svg?branch=main)](https://coveralls.io/github/xushengs/remix_icon?branch=main) [![Pub Version](https://img.shields.io/pub/v/remix_icon)](https://pub.dev/packages/remix_icon)
+[![Coverage Status](https://coveralls.io/repos/github/xushengs/remix_flutter/badge.svg?branch=main)](https://coveralls.io/github/xushengs/remix_flutter?branch=main) [![Pub Version](https://img.shields.io/pub/v/remix_flutter)](https://pub.dev/packages/remix_flutter)
 
 Discover the full spectrum of Remix Icons, now conveniently packaged as Flutter Icons, offering you unparalleled access to an extensive repertoire of captivating visuals.
 
@@ -10,12 +10,12 @@ Identifiers for the supported [Remix Icon](https://remixicon.com)
 
 ### Add dependency
 
-Add `remix_icon` to your `pubspec.yaml` dependencies.
+Add `remix_flutter` to your `pubspec.yaml` dependencies.
 
 ### Import it
 
 ```dart
-import 'package:remix_icon/remix_icon.dart';
+import 'package:remix_flutter/remix_flutter.dart';
 ```
 
 ### Use it

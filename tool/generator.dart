@@ -3,8 +3,8 @@
 import 'dart:convert';
 import 'dart:io';
 
-import '../lib/src/utils.dart';
-// import 'package:remix_icon/src/utils.dart' show sanitizeKey;
+import 'package:remix_flutter/src/utils.dart';
+// import 'package:remix_flutter/src/utils.dart' show sanitizeKey;
 
 void main(List<String> args) async {
   Map<String, dynamic>? icons = await _getIconMap(args[0]);

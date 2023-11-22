@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:remix_icon/remix_icon.dart';
+import 'package:remix_flutter/remix_flutter.dart';
 
 void main() {
   runApp(const MyApp());
