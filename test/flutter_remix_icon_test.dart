@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_remix_icon/src/utils.dart';
+import 'package:remix_icon/src/utils.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_remix_icon/flutter_remix_icon.dart';
+import 'package:remix_icon/remix_icon.dart';
 
 void main() {
   // test sanitizeKey

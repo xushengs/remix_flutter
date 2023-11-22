@@ -11,6 +11,6 @@ class RemixIconData extends IconData {
       : super(
           codePoint,
           fontFamily: "RemixIcon",
-          fontPackage: "flutter_remix_icon",
+          fontPackage: "remix_icon",
         );
 }
