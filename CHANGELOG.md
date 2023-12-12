@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0
+
+* Update with RemixIcon V3.7.0
+
 ## 0.2.0
 
 * Export class RemixIconData.
