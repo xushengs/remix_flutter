@@ -664,10 +664,10 @@ class RemixIcon {
   static const IconData book_line = RemixIconData(0xEAD7);
 
   /// See [Remix Icon](https://remixicon.com/).
-  static const IconData book_mark_fill = RemixIconData(0xEAD8);
+  static const IconData book_marked_fill = RemixIconData(0xEAD8);
 
   /// See [Remix Icon](https://remixicon.com/).
-  static const IconData book_mark_line = RemixIconData(0xEAD9);
+  static const IconData book_marked_line = RemixIconData(0xEAD9);
 
   /// See [Remix Icon](https://remixicon.com/).
   static const IconData book_open_fill = RemixIconData(0xEADA);
@@ -2284,10 +2284,10 @@ class RemixIcon {
   static const IconData file_lock_line = RemixIconData(0xECF3);
 
   /// See [Remix Icon](https://remixicon.com/).
-  static const IconData file_mark_fill = RemixIconData(0xECF4);
+  static const IconData file_marked_fill = RemixIconData(0xECF4);
 
   /// See [Remix Icon](https://remixicon.com/).
-  static const IconData file_mark_line = RemixIconData(0xECF5);
+  static const IconData file_marked_line = RemixIconData(0xECF5);
 
   /// See [Remix Icon](https://remixicon.com/).
   static const IconData file_music_fill = RemixIconData(0xECF6);
@@ -8030,6 +8030,105 @@ class RemixIcon {
 
   /// See [Remix Icon](https://remixicon.com/).
   static const IconData timeline_view = RemixIconData(0xF46F);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData blogger_fill = RemixIconData(0xF470);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData blogger_line = RemixIconData(0xF471);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData chat_thread_fill = RemixIconData(0xF472);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData chat_thread_line = RemixIconData(0xF473);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData discount_percent_fill = RemixIconData(0xF474);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData discount_percent_line = RemixIconData(0xF475);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData exchange_2_fill = RemixIconData(0xF476);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData exchange_2_line = RemixIconData(0xF477);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData git_fork_fill = RemixIconData(0xF478);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData git_fork_line = RemixIconData(0xF479);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData input_field = RemixIconData(0xF47A);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_1_fill = RemixIconData(0xF47B);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_1_line = RemixIconData(0xF47C);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_2_fill = RemixIconData(0xF47D);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_2_line = RemixIconData(0xF47E);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_3_fill = RemixIconData(0xF47F);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_3_line = RemixIconData(0xF480);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_4_fill = RemixIconData(0xF481);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_4_line = RemixIconData(0xF482);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_5_fill = RemixIconData(0xF483);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_5_line = RemixIconData(0xF484);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_6_fill = RemixIconData(0xF485);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_6_line = RemixIconData(0xF486);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_7_fill = RemixIconData(0xF487);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_7_line = RemixIconData(0xF488);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_8_fill = RemixIconData(0xF489);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData progress_8_line = RemixIconData(0xF48A);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData remix_run_fill = RemixIconData(0xF48B);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData remix_run_line = RemixIconData(0xF48C);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData signpost_fill = RemixIconData(0xF48D);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData signpost_line = RemixIconData(0xF48E);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData time_zone_fill = RemixIconData(0xF48F);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData time_zone_line = RemixIconData(0xF490);
   static const Map<String, int> _iconMap = {
     "i_24_hours_fill": 0xEA01,
     "i_24_hours_line": 0xEA02,
@@ -8246,8 +8345,8 @@ class RemixIcon {
     "book_3_line": 0xEAD5,
     "book_fill": 0xEAD6,
     "book_line": 0xEAD7,
-    "book_mark_fill": 0xEAD8,
-    "book_mark_line": 0xEAD9,
+    "book_marked_fill": 0xEAD8,
+    "book_marked_line": 0xEAD9,
     "book_open_fill": 0xEADA,
     "book_open_line": 0xEADB,
     "book_read_fill": 0xEADC,
@@ -8786,8 +8885,8 @@ class RemixIcon {
     "file_list_line": 0xECF1,
     "file_lock_fill": 0xECF2,
     "file_lock_line": 0xECF3,
-    "file_mark_fill": 0xECF4,
-    "file_mark_line": 0xECF5,
+    "file_marked_fill": 0xECF4,
+    "file_marked_line": 0xECF5,
     "file_music_fill": 0xECF6,
     "file_music_line": 0xECF7,
     "file_paper_2_fill": 0xECF8,
@@ -10702,6 +10801,39 @@ class RemixIcon {
     "text_block": 0xF46D,
     "text_snippet": 0xF46E,
     "timeline_view": 0xF46F,
+    "blogger_fill": 0xF470,
+    "blogger_line": 0xF471,
+    "chat_thread_fill": 0xF472,
+    "chat_thread_line": 0xF473,
+    "discount_percent_fill": 0xF474,
+    "discount_percent_line": 0xF475,
+    "exchange_2_fill": 0xF476,
+    "exchange_2_line": 0xF477,
+    "git_fork_fill": 0xF478,
+    "git_fork_line": 0xF479,
+    "input_field": 0xF47A,
+    "progress_1_fill": 0xF47B,
+    "progress_1_line": 0xF47C,
+    "progress_2_fill": 0xF47D,
+    "progress_2_line": 0xF47E,
+    "progress_3_fill": 0xF47F,
+    "progress_3_line": 0xF480,
+    "progress_4_fill": 0xF481,
+    "progress_4_line": 0xF482,
+    "progress_5_fill": 0xF483,
+    "progress_5_line": 0xF484,
+    "progress_6_fill": 0xF485,
+    "progress_6_line": 0xF486,
+    "progress_7_fill": 0xF487,
+    "progress_7_line": 0xF488,
+    "progress_8_fill": 0xF489,
+    "progress_8_line": 0xF48A,
+    "remix_run_fill": 0xF48B,
+    "remix_run_line": 0xF48C,
+    "signpost_fill": 0xF48D,
+    "signpost_line": 0xF48E,
+    "time_zone_fill": 0xF48F,
+    "time_zone_line": 0xF490,
   };
 
   /// Get icon data by RemixIcon [name].
