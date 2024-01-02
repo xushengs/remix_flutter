@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.1
+
+* Update dependencies.
+
 ## 0.4.0
 
 * Update RemixIcon to V4.0.0
