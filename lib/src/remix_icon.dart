@@ -8129,6 +8129,102 @@ class RemixIcon {
 
   /// See [Remix Icon](https://remixicon.com/).
   static const IconData time_zone_line = RemixIconData(0xF490);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData arrow_down_wide_fill = RemixIconData(0xF491);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData arrow_down_wide_line = RemixIconData(0xF492);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData arrow_left_wide_fill = RemixIconData(0xF493);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData arrow_left_wide_line = RemixIconData(0xF494);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData arrow_right_wide_fill = RemixIconData(0xF495);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData arrow_right_wide_line = RemixIconData(0xF496);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData arrow_up_wide_fill = RemixIconData(0xF497);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData arrow_up_wide_line = RemixIconData(0xF498);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData bluesky_fill = RemixIconData(0xF499);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData bluesky_line = RemixIconData(0xF49A);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_height_fill = RemixIconData(0xF49B);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_height_line = RemixIconData(0xF49C);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_width_fill = RemixIconData(0xF49D);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_width_line = RemixIconData(0xF49E);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData forward_end_fill = RemixIconData(0xF49F);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData forward_end_line = RemixIconData(0xF4A0);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData forward_end_mini_fill = RemixIconData(0xF4A1);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData forward_end_mini_line = RemixIconData(0xF4A2);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData friendica_fill = RemixIconData(0xF4A3);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData friendica_line = RemixIconData(0xF4A4);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData git_pr_draft_fill = RemixIconData(0xF4A5);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData git_pr_draft_line = RemixIconData(0xF4A6);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData play_reverse_fill = RemixIconData(0xF4A7);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData play_reverse_line = RemixIconData(0xF4A8);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData play_reverse_mini_fill = RemixIconData(0xF4A9);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData play_reverse_mini_line = RemixIconData(0xF4AA);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData rewind_start_fill = RemixIconData(0xF4AB);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData rewind_start_line = RemixIconData(0xF4AC);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData rewind_start_mini_fill = RemixIconData(0xF4AD);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData rewind_start_mini_line = RemixIconData(0xF4AE);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData scroll_to_bottom_fill = RemixIconData(0xF4AF);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData scroll_to_bottom_line = RemixIconData(0xF4B0);
   static const Map<String, int> _iconMap = {
     "i_24_hours_fill": 0xEA01,
     "i_24_hours_line": 0xEA02,
@@ -10834,6 +10930,38 @@ class RemixIcon {
     "signpost_line": 0xF48E,
     "time_zone_fill": 0xF48F,
     "time_zone_line": 0xF490,
+    "arrow_down_wide_fill": 0xF491,
+    "arrow_down_wide_line": 0xF492,
+    "arrow_left_wide_fill": 0xF493,
+    "arrow_left_wide_line": 0xF494,
+    "arrow_right_wide_fill": 0xF495,
+    "arrow_right_wide_line": 0xF496,
+    "arrow_up_wide_fill": 0xF497,
+    "arrow_up_wide_line": 0xF498,
+    "bluesky_fill": 0xF499,
+    "bluesky_line": 0xF49A,
+    "expand_height_fill": 0xF49B,
+    "expand_height_line": 0xF49C,
+    "expand_width_fill": 0xF49D,
+    "expand_width_line": 0xF49E,
+    "forward_end_fill": 0xF49F,
+    "forward_end_line": 0xF4A0,
+    "forward_end_mini_fill": 0xF4A1,
+    "forward_end_mini_line": 0xF4A2,
+    "friendica_fill": 0xF4A3,
+    "friendica_line": 0xF4A4,
+    "git_pr_draft_fill": 0xF4A5,
+    "git_pr_draft_line": 0xF4A6,
+    "play_reverse_fill": 0xF4A7,
+    "play_reverse_line": 0xF4A8,
+    "play_reverse_mini_fill": 0xF4A9,
+    "play_reverse_mini_line": 0xF4AA,
+    "rewind_start_fill": 0xF4AB,
+    "rewind_start_line": 0xF4AC,
+    "rewind_start_mini_fill": 0xF4AD,
+    "rewind_start_mini_line": 0xF4AE,
+    "scroll_to_bottom_fill": 0xF4AF,
+    "scroll_to_bottom_line": 0xF4B0,
   };
 
   /// Get icon data by RemixIcon [name].
