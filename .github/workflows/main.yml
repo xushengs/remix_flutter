@@ -28,7 +28,7 @@ jobs:
       - name: Flutter Test
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.13.9'
+          flutter-version: '3.19.2'
           channel: 'stable'
       - run: flutter test --coverage
           
