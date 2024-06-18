@@ -1,10 +1,10 @@
 name: remix_flutter
 description: Discover the full spectrum of Remix Icons, now conveniently packaged as Flutter Icons.
-version: 0.4.2+1
+version: 0.4.3
 homepage: https://github.com/xushengs/remix_flutter
 
 environment:
-  sdk: '>=3.1.5 <4.0.0'
+  sdk: ">=3.1.5 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -15,14 +15,13 @@ dev_dependencies:
   build_runner: ^2.4.6
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.1
+  flutter_lints: ^4.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
 flutter:
-
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg

@@ -8569,6 +8569,132 @@ class RemixIcon {
 
   /// See [Remix Icon](https://remixicon.com/).
   static const IconData weight_line = RemixIconData(0xF522);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData book_shelf_fill = RemixIconData(0xF523);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData book_shelf_line = RemixIconData(0xF524);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData brain_2_fill = RemixIconData(0xF525);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData brain_2_line = RemixIconData(0xF526);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData chat_search_fill = RemixIconData(0xF527);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData chat_search_line = RemixIconData(0xF528);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData chat_unread_fill = RemixIconData(0xF529);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData chat_unread_line = RemixIconData(0xF52A);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData collapse_horizontal_fill = RemixIconData(0xF52B);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData collapse_horizontal_line = RemixIconData(0xF52C);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData collapse_vertical_fill = RemixIconData(0xF52D);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData collapse_vertical_line = RemixIconData(0xF52E);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData dna_fill = RemixIconData(0xF52F);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData dna_line = RemixIconData(0xF530);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData dropper_fill = RemixIconData(0xF531);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData dropper_line = RemixIconData(0xF532);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_diagonal_s_2_fill = RemixIconData(0xF533);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_diagonal_s_2_line = RemixIconData(0xF534);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_diagonal_s_fill = RemixIconData(0xF535);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_diagonal_s_line = RemixIconData(0xF536);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_horizontal_fill = RemixIconData(0xF537);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_horizontal_line = RemixIconData(0xF538);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_horizontal_s_fill = RemixIconData(0xF539);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_horizontal_s_line = RemixIconData(0xF53A);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_vertical_fill = RemixIconData(0xF53B);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_vertical_line = RemixIconData(0xF53C);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_vertical_s_fill = RemixIconData(0xF53D);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData expand_vertical_s_line = RemixIconData(0xF53E);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData gemini_fill = RemixIconData(0xF53F);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData gemini_line = RemixIconData(0xF540);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData reset_left_fill = RemixIconData(0xF541);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData reset_left_line = RemixIconData(0xF542);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData reset_right_fill = RemixIconData(0xF543);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData reset_right_line = RemixIconData(0xF544);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData stairs_fill = RemixIconData(0xF545);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData stairs_line = RemixIconData(0xF546);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData telegram_2_fill = RemixIconData(0xF547);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData telegram_2_line = RemixIconData(0xF548);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData triangular_flag_fill = RemixIconData(0xF549);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData triangular_flag_line = RemixIconData(0xF54A);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData user_minus_fill = RemixIconData(0xF54B);
+
+  /// See [Remix Icon](https://remixicon.com/).
+  static const IconData user_minus_line = RemixIconData(0xF54C);
   static const Map<String, int> _iconMap = {
     "i_24_hours_fill": 0xEA01,
     "i_24_hours_line": 0xEA02,
@@ -11420,6 +11546,48 @@ class RemixIcon {
     "webhook_line": 0xF520,
     "weight_fill": 0xF521,
     "weight_line": 0xF522,
+    "book_shelf_fill": 0xF523,
+    "book_shelf_line": 0xF524,
+    "brain_2_fill": 0xF525,
+    "brain_2_line": 0xF526,
+    "chat_search_fill": 0xF527,
+    "chat_search_line": 0xF528,
+    "chat_unread_fill": 0xF529,
+    "chat_unread_line": 0xF52A,
+    "collapse_horizontal_fill": 0xF52B,
+    "collapse_horizontal_line": 0xF52C,
+    "collapse_vertical_fill": 0xF52D,
+    "collapse_vertical_line": 0xF52E,
+    "dna_fill": 0xF52F,
+    "dna_line": 0xF530,
+    "dropper_fill": 0xF531,
+    "dropper_line": 0xF532,
+    "expand_diagonal_s_2_fill": 0xF533,
+    "expand_diagonal_s_2_line": 0xF534,
+    "expand_diagonal_s_fill": 0xF535,
+    "expand_diagonal_s_line": 0xF536,
+    "expand_horizontal_fill": 0xF537,
+    "expand_horizontal_line": 0xF538,
+    "expand_horizontal_s_fill": 0xF539,
+    "expand_horizontal_s_line": 0xF53A,
+    "expand_vertical_fill": 0xF53B,
+    "expand_vertical_line": 0xF53C,
+    "expand_vertical_s_fill": 0xF53D,
+    "expand_vertical_s_line": 0xF53E,
+    "gemini_fill": 0xF53F,
+    "gemini_line": 0xF540,
+    "reset_left_fill": 0xF541,
+    "reset_left_line": 0xF542,
+    "reset_right_fill": 0xF543,
+    "reset_right_line": 0xF544,
+    "stairs_fill": 0xF545,
+    "stairs_line": 0xF546,
+    "telegram_2_fill": 0xF547,
+    "telegram_2_line": 0xF548,
+    "triangular_flag_fill": 0xF549,
+    "triangular_flag_line": 0xF54A,
+    "user_minus_fill": 0xF54B,
+    "user_minus_line": 0xF54C,
   };
 
   /// Get icon data by RemixIcon [name].

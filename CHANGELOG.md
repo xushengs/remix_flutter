@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.3
+
+* Update RemixIcon to V4.3.0
+
 ## 0.4.2+1
 
 * Update RemixIcon to V4.2.0
